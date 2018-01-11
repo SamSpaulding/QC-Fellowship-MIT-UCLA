@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.5.23)  10 JAN 2018 22:36
+This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.5.23)  10 JAN 2018 22:40
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Master.tex
@@ -35,7 +35,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.101 seconds
+luaotfload | main : initialization completed in 0.305 seconds
 Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -965,67 +965,67 @@ l.13 ...i.e., simply hearing language is not enough.
 Missing character: There is no � (U+FFFD) in font Arial:mode=node;script=latn;
 language=DFLT;+tlig;!
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
  []
 
-[2]
+[2] [3]
 
-LaTeX Warning: Reference `section_ipsyn' on page 3 undefined on input line 63.
+LaTeX Warning: Reference `section_ipsyn' on page 4 undefined on input line 77.
 
 
-LaTeX Warning: Reference `section_ipsyn' on page 3 undefined on input line 67.
+LaTeX Warning: Reference `section_ipsyn' on page 4 undefined on input line 81.
 
-[3]
-LaTeX Font Info:    Try loading font information for U+msa on input line 81.
+[4]
+LaTeX Font Info:    Try loading font information for U+msa on input line 95.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 81.
+LaTeX Font Info:    Try loading font information for U+msb on input line 95.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )(load luc: /Users/samuelsp/Library/texlive/2017/texmf-var/luatex-cache/generic/
-fonts/otl/lmmono9-regular.luc) [4]
+fonts/otl/lmmono9-regular.luc) [5]
 
-LaTeX Warning: Reference `section_ipsyn' on page 5 undefined on input line 110.
+LaTeX Warning: Reference `section_ipsyn' on page 6 undefined on input line 124.
 
-[5] [6]
+[6] [7]
 
-LaTeX Warning: Reference `section_ipsyn' on page 7 undefined on input line 133.
+LaTeX Warning: Reference `section_ipsyn' on page 8 undefined on input line 147.
 
-[7] [8] [9] [10] [11] <fig/NRI_arch.pdf, id=46, 1338.83452pt x 1054.44698pt>
+[8] [9] [10] [11] [12] <fig/NRI_arch.pdf, id=49, 1338.83452pt x 1054.44698pt>
 File: fig/NRI_arch.pdf Graphic file (type pdf)
 
 <use fig/NRI_arch.pdf>
-Package luatex.def Info: fig/NRI_arch.pdf used on input line 293.
+Package luatex.def Info: fig/NRI_arch.pdf used on input line 307.
 (luatex.def)             Requested size: 469.75502pt x 369.96298pt.
 
 
-LaTeX Warning: Reference `section_ipsyn' on page 12 undefined on input line 300.
+LaTeX Warning: Reference `section_ipsyn' on page 13 undefined on input line 314.
 
 
-[12]
+[13]
 
-LaTeX Warning: Reference `section_ipsyn' on page 13 undefined on input line 304.
+LaTeX Warning: Reference `section_ipsyn' on page 14 undefined on input line 318.
 
 
-[13] <fig/asr.pdf, id=53, 448.68748pt x 434.57288pt>
+[14] <fig/asr.pdf, id=56, 448.68748pt x 434.57288pt>
 File: fig/asr.pdf Graphic file (type pdf)
  <use fig/asr.pdf>
-Package luatex.def Info: fig/asr.pdf used on input line 316.
+Package luatex.def Info: fig/asr.pdf used on input line 330.
 (luatex.def)             Requested size: 164.41711pt x 159.2444pt.
- [14<./fig/asr.pdf>]
+ [15<./fig/asr.pdf>]
 
-LaTeX Warning: Reference `section_ipsyn' on page 15 undefined on input line 352.
-
-
-[15] [16]
-
-LaTeX Warning: Reference `section_ipsyn' on page 17 undefined on input line 375.
+LaTeX Warning: Reference `section_ipsyn' on page 16 undefined on input line 366.
 
 
-[17] [18] [19] [20] [21] [22] [23]) [24] [25<./fig/NRI_arch.pdf>]
+[16] [17]
+
+LaTeX Warning: Reference `section_ipsyn' on page 18 undefined on input line 389.
+
+
+[18] [19] [20] [21] [22] [23] [24]) [25] [26<./fig/NRI_arch.pdf>]
 \openout2 = Refs.aux
  (./Refs.tex
 (./Master.bbl [1
@@ -1056,17 +1056,17 @@ ibute_list, 2 write nodes
  19184 multiletter control sequences out of 65536+600000
  64 fonts using 11283207 bytes
  40i,8n,79p,1891b,406s stack positions out of 5000i,500n,10000p,200000b,100000s
-</Library/Fonts/Arial Italic.ttf></Library/Fonts/Arial Bold Italic.ttf></usr/loc
-al/texlive/2017/texmf-dist/fonts/opentype/public/lm/lmmono9-regular.otf></Librar
+</Library/Fonts/Arial Italic.ttf></usr/local/texlive/2017/texmf-dist/fonts/opent
+ype/public/lm/lmmono9-regular.otf></Library/Fonts/Arial Bold Italic.ttf></Librar
 y/Fonts/Arial.ttf></Library/Fonts/Arial Bold.ttf></usr/local/texlive/2017/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Master.pdf (30 pages, 947347 bytes).
+Output written on Master.pdf (31 pages, 952190 bytes).
 
-PDF statistics: 703 PDF objects out of 1000 (max. 8388607)
- 385 compressed objects within 4 object streams
+PDF statistics: 707 PDF objects out of 1000 (max. 8388607)
+ 388 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
