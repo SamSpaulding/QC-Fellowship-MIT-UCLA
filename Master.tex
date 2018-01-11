@@ -1,0 +1,73 @@
+%%%%%%%%% MASTER -- compiles the 6 sections
+
+\documentclass[11pt,letterpaper]{article}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagestyle{plain}                                                      %%
+%%%%%%%%%% EXACT 1in MARGINS %%%%%%%                                   %%
+%\setlength{\textwidth}{6.4in}     %%                                   %%
+%\setlength{\oddsidemargin}{0in}   %% (It is recommended that you       %%
+%\setlength{\evensidemargin}{0in}  %%  not change these parameters,     %%
+%\setlength{\textheight}{9in}    %%  at the risk of having your       %%
+%\setlength{\topmargin}{0in}       %%  proposal dismissed on the basis  %%
+%\setlength{\headheight}{0in}      %%  of incorrect formatting!!!)      %%
+%\setlength{\headsep}{0in}         %%                                   %%
+%\setlength{\footskip}{0.2in}       %%                                   %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%                                   %%
+\usepackage[margin=1.0in]{geometry}
+%\newcommand{\required}[1]{\section*{\hfil #1\hfil}}                    %%
+%\renewcommand{\refname}{\hfil References Cited\hfil}                   %%
+%\bibliographystyle{plain}                                              %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%PUT YOUR MACROS HERE
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{enumitem}
+\usepackage{fontspec}
+\setmainfont{Arial}
+\usepackage{subfigure}
+\usepackage{url}
+\usepackage{wrapfig}
+\usepackage[font=footnotesize,labelfont=bf]{caption}
+\usepackage{lscape, longtable, rotating, multirow, ctable, tabularx, booktabs}
+
+\usepackage{titlesec}
+
+\titleformat*{\section}{\fontsize{12pt}{11}\bfseries}
+\titleformat*{\subsection}{\fontsize{11pt}{10}\bfseries}
+\titleformat*{\subsubsection}{\normalsize\bfseries\itshape}
+\titleformat*{\paragraph}{\large\bfseries}
+\titleformat*{\subparagraph}{\large\bfseries}
+
+\titlespacing*{\section}
+{0pt}{3.5ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+\titlespacing*{\subsection}
+{0pt}{1.8ex plus 1ex minus .2ex}{0.5ex plus .2ex}
+\titlespacing*{\subsubsection}
+{12pt}{1.4ex plus 1ex minus .2ex}{0.5ex plus .2ex}
+
+
+%\pagestyle{empty}
+%\includeonly{NSFdesc}
+
+\begin{document}
+
+%\include{NSFsumm}
+ \setcounter{page}{1}
+ \pagenumbering{arabic}
+\include{Desc}
+\setcounter{page}{1}
+\pagenumbering{arabic}
+\include{Refs}
+% \setcounter{page}{1}
+% \include{NSFbio}
+% \setcounter{page}{1}
+%\include{NSFdata}
+% \setcounter{page}{1}
+%\include{NSFcollab}
+% \setcounter{page}{1}
+
+
+\end{document}
