@@ -34,26 +34,10 @@ B.~Hart and T.~R. Risley, \emph{Meaningful differences in the everyday
   experience of young American children.}\hskip 1em plus 0.5em minus
   0.4em\relax Paul H Brookes Publishing, 1995.
 
-\bibitem{fish2003language}
-M.~Fish and B.~Pinkerman, ``Language skills in low-ses rural appalachian
-  children: Normative development and individual differences, infancy to
-  preschool,'' \emph{Journal of Applied Developmental Psychology}, vol.~23,
-  no.~5, pp. 539--565, 2003.
-
 \bibitem{paez2007dual}
 M.~M. P{\'a}ez, P.~O. Tabors, and L.~M. L{\'o}pez, ``Dual language and literacy
   development of spanish-speaking preschool children,'' \emph{Journal of
   applied developmental psychology}, vol.~28, no.~2, pp. 85--102, 2007.
-
-\bibitem{snow2007literacy}
-C.~E. Snow, M.~V. Porche, P.~O. Tabors, and S.~R. Harris, ``Is literacy enough?
-  pathways to academic success for adolescents.'' 2007.
-
-\bibitem{biemiller2001estimating}
-A.~Biemiller and N.~Slonim, ``Estimating root word vocabulary growth in
-  normative and advantaged populations: Evidence for a common sequence of
-  vocabulary acquisition,'' \emph{Journal of educational psychology}, vol.~93,
-  no.~3, pp. 498--520, 2001.
 
 \bibitem{asaridou2016pace}
 S.~S. Asaridou, {\"O}.~E. Demir-Lira, S.~Goldin-Meadow, and S.~L. Small, ``The
@@ -64,43 +48,15 @@ S.~S. Asaridou, {\"O}.~E. Demir-Lira, S.~Goldin-Meadow, and S.~L. Small, ``The
 G.~Wells, ``Dialogic inquiry in education,'' \emph{Vygotskian perspectives on
   literacy research}, pp. 51--85, 2000.
 
-\bibitem{wolf_2016}
-M.~Wolf and S.~Gottwald, \emph{Tales of Literacy in the 21st Century}, ser.
-  Literary Agenda Series.\hskip 1em plus 0.5em minus 0.4em\relax Oxford
-  University Press, 2016.
-
-\bibitem{dehaene_2010}
-S.~Dehaene, \emph{Reading in the brain: The new science of how we read}.\hskip
-  1em plus 0.5em minus 0.4em\relax New York: Penguin Books, 2009.
-
-\bibitem{corbett1994knowledge}
-A.~T. Corbett and J.~R. Anderson, ``Knowledge tracing: Modeling the acquisition
-  of procedural knowledge,'' \emph{User modeling and user-adapted interaction},
-  vol.~4, no.~4, pp. 253--278, 1994.
-
 \bibitem{desmarais2012review}
 M.~C. Desmarais and R.~S. Baker, ``A review of recent advances in learner and
   skill modeling in intelligent learning environments,'' \emph{User Modeling
   and User-Adapted Interaction}, vol.~22, no. 1-2, pp. 9--38, 2012.
 
-\bibitem{yudelson2013individualized}
-M.~V. Yudelson, K.~R. Koedinger, and G.~J. Gordon, ``Individualized bayesian
-  knowledge tracing models,'' in \emph{International Conference on Artificial
-  Intelligence in Education}.\hskip 1em plus 0.5em minus 0.4em\relax Springer,
-  2013, pp. 171--180.
-
-\bibitem{lee2012personalization}
-M.~K. Lee, J.~Forlizzi, S.~Kiesler, P.~Rybski, J.~Antanitis, and S.~Savetsila,
-  ``Personalization in {HRI}: A longitudinal field experiment,'' in
-  \emph{Human-Robot Interaction (HRI), 2012 7th ACM/IEEE International
-  Conference on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2012, pp.
-  319--326.
-
 \bibitem{leyzberg2014personalizing}
 D.~Leyzberg, S.~Spaulding, and B.~Scassellati, ``Personalizing robot tutors to
   individuals' learning differences,'' in \emph{Proceedings of the 2014
-  ACM/IEEE international conference on Human-robot interaction}.\hskip 1em plus
-  0.5em minus 0.4em\relax ACM, 2014, pp. 423--430.
+  ACM/IEEE international conference on Human-robot interaction}.
 
 \bibitem{kennedy2017child}
 J.~Kennedy, S.~Lemaignan, C.~Montassier, P.~Lavalade, B.~Irfan,
@@ -133,13 +89,7 @@ C.~J. Leggetter and P.~C. Woodland, ``Maximum likelihood linear regression for
 \bibitem{arsikere2012automatic}
 H.~Arsikere, G.~K. Leung, S.~M. Lulich, and A.~Alwan, ``Automatic estimation of
   the first two subglottal resonances in children's speech with application to
-  speaker normalization in limited-data conditions.'' in \emph{INTERSPEECH},
-  2012, pp. 1267--1270.
-
-\bibitem{strope1997model}
-B.~Strope and A.~Alwan, ``A model of dynamic auditory perception and its
-  application to robust word recognition,'' \emph{IEEE transactions on Speech
-  and Audio Processing}, vol.~5, no.~5, pp. 451--464, 1997.
+  speaker normalization in limited-data conditions.'' in \emph{INTERSPEECH}.
 
 \bibitem{strope1998robust}
 B.~Strope and A.~Alwan, ``Robust word recognition using threaded spectral
@@ -177,12 +127,28 @@ J.~Tepperman, J.~F. Silva, A.~Kazemzadeh, H.~You, S.~Lee, A.~Alwan, and
   literacy assessment.'' in \emph{INTERSPEECH}, 2006.
 
 \bibitem{Spaulding_Gordon_Breazeal_2016}
-\BIBentryALTinterwordspacing
 S.~Spaulding, G.~Gordon, and C.~Breazeal, \emph{Affect-Aware Student Models for
   Robot Tutors}, ser. AAMAS ’16.\hskip 1em plus 0.5em minus 0.4em\relax
   International Foundation for Autonomous Agents and Multiagent Systems, 2016,
-  p. 864–872. [Online]. Available:
-  \url{http://dl.acm.org/citation.cfm?id=2937029.2937050}
-\BIBentrySTDinterwordspacing
+  p. 864–872.
+
+\bibitem{park2017hri-bc}
+H.~W. Park, M.~Gelsomini, J.~J. Lee, and C.~Breazeal, ``Telling stories to
+  robots: The effect of backchanneling on a child's storytelling,'' in
+  \emph{Proceedings of the 12th {ACM}/{IEEE} international conference on
+  {Human} robot interaction}.\hskip 1em plus 0.5em minus 0.4em\relax ACM, 2017.
+
+\bibitem{gordon2016affective}
+G.~Gordon, S.~Spaulding, J.~K. Westlund, J.~J. Lee, L.~Plummer, M.~Martinez,
+  M.~Das, and C.~Breazeal, ``Affective personalization of a social robot tutor
+  for children's second language skills,'' in \emph{Proceedings of the
+  Thirtieth AAAI Conference on Artificial Intelligence}.\hskip 1em plus 0.5em
+  minus 0.4em\relax AAAI Press, 2016, pp. 3951--3957.
+
+\bibitem{westlund2017flat}
+K.~Westlund, M.~Jacqueline, S.~Jeong, H.~W. Park, S.~Ronfard, A.~Adhikari,
+  P.~L. Harris, D.~DeSteno, and C.~L. Breazeal, ``Flat vs. expressive
+  storytelling: Young children?s learning and retention of a social robot?s
+  narrative,'' \emph{Frontiers in Human Neuroscience}, vol.~11, p. 295, 2017.
 
 \end{thebibliography}
