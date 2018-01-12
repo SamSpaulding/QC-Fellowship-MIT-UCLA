@@ -1,5 +1,5 @@
 
-%%%%%%%%% PROPOSAL -- 15 pages (including Results from Prior NSF Support)
+%%%%%%%%% PROPOSAL
 
 \noindent{\large\bf Social Robot Learning Companions for Personalized Children's Education}
 
@@ -22,6 +22,7 @@ We propose to address this challenge by developing social robot companions that 
 Through our research, we propose to address multiple high-impact challenges:
 
 \subsection{Development of Automatic Speech Recognition and Spoken Language Understanding systems for young children's speech}
+\label{section_ASR}
 \subsubsection{Automatic speech recognition for young children}
 Compared to adults, children?s speech is characterized by (i) more omissions, substitutions and mispronunciations (ii) shorter words that make discrimination more difficult (iii) more creative word use (iv) diversity in anatomy and physiology and developing motor skills (v) larger variation in spectral and temporal parameters and (vi) larger number of disfluencies [10,11]. Though are tools achieving single-digit word error rate (WER) [12,13] for adult speech, there is still no robust technology for child speech with accuracy rate above 50\%.
 
@@ -43,21 +44,66 @@ We also need to detect disfluencies in the spontaneous speech of children. Hence
  % \label{fig:asr}
 %\end{wrapfigure}
 
-\subsection {Multi-modal automatic assessment algorithms for Kindergarten age children's spoken language and early reading skills}
-\subsection {Automatic personalization algorithms for story content customization and dialogic question generation in the context of  young children's verbal storytelling}
-\subsection {Development of a fully autonomous, collaborative, peer-like social robot system with effective educational activities that can do all the above.}
-\subsection{Evaluation studies with deployed social robots in schools and homes demonstrating sustained engagement and positive learning outcomes.}
+\subsection {Multi-modal assessment and personalization algorithms for Kindergarten age children's spoken language and early reading skills}
+\label{section_assessment}
 
+In previous work, we showed that using affective information to train models of children's knowledge outperformed traditional Bayesian Knowledge Tracing (BKT) models in assessing single-word reading skills~\cite{Spaulding_Gordon_Breazeal_2016}. Given our promising results with this "Affect-BKT" reading assessment algorithm for young children, we propose the following extensions to develop a more advanced model that shall:
 
+{\bf Span to Multi-word reading tasks.} Our previous work developed Affect-BKT models that more accurately assessed student's performance on foundational, one-word reading skills. We propose to extend these results to more advanced reading skills, e.g., assessing phrases and complete sentences.
+
+{\bf Expand beyond tactile based inputs} {\bf to spoken inputs.} Our previous work relied on a child identifying (by tapping on a touchscreen) the written form of a spoken word to assess reading ability. Our development of robust child speech technologies will enable us to incorporate speech-based data, such as children's spoken responses and pronunciation, enabling new  
+interactions and multimodal models of children's learning.
+
+{\bf Employ active-learning approaches} to improve algorithm convergence rate and accelerate model improvement. Generally speaking, knowledge assessment models improve with additional data. But collecting additional data often requires asking additional questions or prompting the child for new demonstrations of a skill. Maintaining child interest over a 20--30 minute educational interaction with an autonomous robot remains a challenge, limiting the amount of useful data from any single session. By employing an active-learning approach, the data we do collect will provide the maximum expected inferential power, allowing our models to more perform better under real-world conditions and practical data constraints.
+
+{\bf Personalize to individual students.}  In part due to data constraints, previous affect-based knowledge models were trained on data from a population of 38 children. By collecting richer, multimodal sources of real-time, real-world data and deploying the active-learning algorithms discussed above, we shall extend our work to develop personalized assessment algorithms, trained on a specific child's unique patterns of affective expression, attention, and prior knowledge.
+
+%{\bf Incorporate hierarchical and interdependent data structures} for skill inference. Previously, our models assumed that each tracked literacy skill was mastered independently. We shall extend the Hidden Markov Model (HMM) structure of our previous Affect-BKT models to a Hierarchical Hidden Markov Model (HHMM) that captures the relationships and dependencies between skills and higher-order concepts essential to literacy development. 
+
+\subsection {Development and evaluation of a fully autonomous, collaborative, peer-like social robot system in schools and homes with effective educational activities leveraging the above.}
+
+In prior work, we assessed children's oral and reading skills offline, after each interaction with a robot, which significantly hindered real-time robot behavior and curriculum personalization. Our enabling innovations of robust child ASR and improved multi-modal assessment algorithms will allow us to develop, deploy, and evaluate a completely autonomous social robot system that can adapt to children's unique educational needs over long periods of time at schools and homes.
+
+%adaptation of these algorithms through innovative child ASR, collection of diverse data corpus to train and improve affect-based knowledge assessment models, and incorporating active learning methods to achieve real-time assessment and personalization. 
+
+Building on our prior research (CITATIONS NEEDED), we will deploy and evaluate a fully autonomous robot learning companion designed to interact with children through a suite of educational activity apps integrating automatic speech recognition, automatic assessment and modeling of literacy (reading and linguistic) skills, and personalized content sequencing.
+
+The interaction scenario involves the social robot ``playing" educational activates with a child like a peer, using a tablet as digital interactive storybook and game surface. Building on our recent system deployment (CITATIONS NEEDED. AAAI16, JACKIE?, EXPRESSIVE VOICE ) we have developed a library of content of grade-appropriate children's stories to support multiple-month deployments. Through interactive storytelling and other educational activities, the social robot system will capture real-time audio, video, touch interactions, and app states on the tablet. This data will be stored in the cloud and used to train novel computational models, assess children's reading and language performance, and adapt the content and robot's behavior in each activity to optimize children's motivation, engagement, and learning.
+
+%These activities can easily be adapted to support either in-school scenarios where a robot and child play these activities together or a triadic interaction in homes where a parent-child-robot do these activities together. In prior work with the TinkRBook, for instance, we explicitly did in-home studies to study the design impact of TinkRability on fostering parent participation during story co-reading. We were able to show that this new design principle encouraged  parents to perform a range of positive emergent literacy behaviors (print referencing, dialog, and dialogic questioning) by 3 to 10 times more than with reading physical books~\cite{Chang_Breazeal_Faridi_Roberts_Davenport_Lieberman_Montfort_2012}. Additionally, children were observed to take a more active role in exploring the concept of text. With social robot triadic interactions, we observe that parents participate naturally as part of the group and similarly help to guide, highlight, motivate, and prompt their child~\cite{Freed_2012}. These design principles will be incorporated and further explored in the proposed work.
+
+%\subsection{Evaluation studies with deployed social robots in schools and homes demonstrating sustained engagement and positive learning outcomes.}
+\\
+\newline
+\smallspace
 The ability to deliver effective, scalable, affordable, early literacy and language interventions to young children is a high impact area for the education system and parents. This proposed effort both integrates and expands our team's strong track record of foundational innovations in the development of social robot learning companion technologies that has yielded positive learning outcomes for young children in school deployments. We extend these efforts, and develop novel contributions, to develop a cloud-connected social robot learning companion system that can deliver an effective, socially situated, spoken language-oriented, and personalized learning experience for young learners focusing on early literacy and language learning.\\
 
 \section{One Year Horizon of project}
 
-We focus on reading and language skills as expressed during children's co-reading and story retell. Children enjoy telling stories, and while doing so they express their current level of language skills, (e.g., vocabulary, grammatical level, etc.) as well as their cognitive and social understanding~\cite{schank1990tell,wright1997creating}. Hence, analysis of children's stories within a theoretical-based framework can serve as an unobtrusive, continuous, and personalized assessment tool for a variety of skills. 
+In the first year of the project we are focusing our efforts on the development of 
+
+games already designed.
+collection of a child speech corpus
+evaluating multi-modal assessment algorithms from single words to sequences
+transfer learning of models across games and individuals
+evaluation
 
 \section{Strength of Team to Achieve Proposed Milestones}
 
-The UCLA Speech Processing and Auditory Perception Lab has an extensive history developing noise-robust speech recognition and analysis tools for children and adults.  The MIT group has developed several robot platforms capable of sustaining engagement and interest in repeated interactions and has conducted multiple long-term deployments of these systems in schools, hospitals, and homes. Most recently, they completed an 8 week parallel deployment of adaptive storytelling robots across 3 local public schools.
+The UCLA Speech Processing and Auditory Perception Lab has an extensive history developing noise-robust speech recognition and analysis tools for children and adults.  
+
+\begin{wrapfigure}{R}{0.35\textwidth}
+  \centering
+  \includegraphics[width=0.35\textwidth]{fig/tega_jibo_combined.png}  
+  \caption{Proposed social robot platforms. Tega (left) is a robust research platform designed and built at MIT; Jibo (right) is a commercially-available, consumer-grade social robot platform.}
+  \label{fig:jibo1}
+\end{wrapfigure}
+
+
+The MIT group has developed several robot platforms capable of sustaining engagement and interest in repeated interactions and has conducted multiple long-term deployments of these systems in schools, hospitals, and homes. Most recently, they completed an 8 week parallel deployment of adaptive storytelling robots across 3 local public schools.
+
+
+
 
 In light of the current research landscape at the intersection of social robots, early education, and spoken language understanding, we are in relatively unexplored territory, yet with the potential for high impact.  Our proposed work extends and builds upon our team's established track record of foundational research in the development of social robot learning companion and associated spoken interface technologies for children.
 
@@ -80,15 +126,12 @@ The interaction scenario involves having the social robot ``play" educational ac
 
 {\bf Personalized, Dialogic Story Retell:} where a child first listens to a story on a tablet then retells that story to the robot. The child's retell of the story is transcribed using our ASR model (see Section~\ref{section_ASR}), and the transcript is automatically analyzed for linguistic skill and complexity using our automatic IPSyn tool (see Section~\ref{section_ipsyn}). Based on this linguistic assessment, the robot's dialogic questions (see Section~\ref{section_dialogicquestion}), story content, and linguistic complexity of that content is personalized to the child during the session and in subsequent sessions according to the principles of Vygotsky's zone of proximal development (ZPD;~\cite{Vygotsky_1978}) which requires tailoring language just above a child's current level of capability. The level is achievable with assistance from an expert (in this case the social robot) fostering learning and sustained engagement. The robot then tells a different story to each child, personalized accordingly.
 
-These activities can easily be adapted to support either in-school scenarios where a robot and child play these activities together or a triadic interaction in homes where a parent-child-robot do these activities together. In prior work with the TinkRBook, for instance, we explicitly did in-home studies to study the design impact of TinkRability on fostering parent participation during story co-reading. We were able to show that this new design principle encouraged  parents to perform a range of positive emergent literacy behaviors (print referencing, dialog, and dialogic questioning) by 3 to 10 times more than with reading physical books~\cite{Chang_Breazeal_Faridi_Roberts_Davenport_Lieberman_Montfort_2012}. Additionally, children were observed to take a more active role in exploring the concept of text. With social robot triadic interactions, we observe that parents participate naturally as part of the group and similarly help to guide, highlight, motivate, and prompt their child~\cite{Freed_2012}. These design principles will be incorporated and further explored in the proposed work.
 
 \subsection{Automatic speech recognition for young children}\label{section_ASR}
 
 Innovative Automatic Speech Recognition (ASR) and Spoken Language Understanding (SLU) technologies will be developed to assess and diagnose children's comprehension of early literacy and language material based on storytelling, co-reading, and answers to the robot's questions.The goals are to: 1) develop innovative ASR algorithms for young children that are robust to age, gender, classroom noise and disfluencies, 2) create innovative SLU algorithms to extract useful information from children's stories and answers to story-related questions, and 3) develop and validate diagnostic assessments that probe vocabulary and syntactic structure acquisition related to conceptual understanding.
 
 Since unconstrained recognition of children's speech can be prohibitively challenging~\cite{fainberg2016improving}, we will constrain the domain to assessment of comprehension of early literacy and language materials. We focus on co-reading out loud, story retell, as well as answering dialogic questions about the stories because: 1)  For our targeted age group, speaking is the main mode of communication as they are at the earliest stages of learning how to read and write. 2)  A corpus of annotated speech from children's reading, retelling, or responding to questions from a known library of books constitutes crucially important research data to advance testing and teaching approaches, as well as the development of theories of cognitive strategies. 3)  Oral language can not only determine accuracy, but also provide clues to help diagnose understanding of vocabulary, word usage, confidence, and focus.  
-
-
 
 Achieving the proposed goals presents several important challenges, including speech and language variability as a function of age, sex, socio-cultural factors, cognitive load, skills, and individual differences. Automated methods need to adapt robustly in the presence of such variability, while using information in the variability to discriminate among various learner states. Compared to adult speech, child speech is more challenging~\cite{price2009assessment,fainberg2016improving} due to (a) more omissions, substitutions, and mispronunciations, (b) shorter words that make discrimination more difficult, (c) more creative word use, (d) diversity in anatomy and physiology and developing motor skills, (e) larger variation in spectral and temporal parameters, and (f) larger number of disfluencies.  
 
