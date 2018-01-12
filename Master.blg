@@ -16,45 +16,45 @@ Database file #1: NSF.bib
 Warning--empty journal in snow2007literacy
 
 Done.
-You've used 59 entries,
+You've used 29 entries,
             4024 wiz_defined-function locations,
-            1141 strings with 19947 characters,
-and the built_in function-call counts, 41919 in all, are:
-= -- 3375
-> -- 1018
-< -- 310
-+ -- 542
-- -- 184
-* -- 1924
-:= -- 6276
-add.period$ -- 131
-call.type$ -- 59
-change.case$ -- 49
-chr.to.int$ -- 711
-cite$ -- 60
-duplicate$ -- 3061
-empty$ -- 3569
-format.name$ -- 229
-if$ -- 9733
+            978 strings with 13578 characters,
+and the built_in function-call counts, 22049 in all, are:
+= -- 1764
+> -- 544
+< -- 182
++ -- 293
+- -- 94
+* -- 1039
+:= -- 3241
+add.period$ -- 64
+call.type$ -- 29
+change.case$ -- 25
+chr.to.int$ -- 426
+cite$ -- 30
+duplicate$ -- 1577
+empty$ -- 1834
+format.name$ -- 120
+if$ -- 5117
 int.to.chr$ -- 0
-int.to.str$ -- 59
-missing$ -- 539
-newline$ -- 212
-num.names$ -- 59
-pop$ -- 1310
+int.to.str$ -- 29
+missing$ -- 274
+newline$ -- 114
+num.names$ -- 29
+pop$ -- 662
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 3345
+skip$ -- 1736
 stack$ -- 0
-substring$ -- 1786
-swap$ -- 2411
-text.length$ -- 73
+substring$ -- 1040
+swap$ -- 1278
+text.length$ -- 40
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 59
+type$ -- 29
 warning$ -- 1
-while$ -- 189
-width$ -- 61
-write$ -- 576
+while$ -- 103
+width$ -- 31
+write$ -- 296
 (There was 1 warning)
