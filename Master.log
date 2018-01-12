@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.5.23)  12 JAN 2018 00:30
+This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.5.23)  12 JAN 2018 00:33
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Master.tex
@@ -971,101 +971,117 @@ l.13 ...i.e., simply hearing language is not enough.
 Missing character: There is no � (U+FFFD) in font Arial:mode=node;script=latn;
 language=DFLT;+tlig;!
 ]
-[2] [3]
+<fig/asr.pdf, id=8, 448.68748pt x 434.57288pt>
+File: fig/asr.pdf Graphic file (type pdf)
+ <use fig/asr.pdf>
+Package luatex.def Info: fig/asr.pdf used on input line 33.
+(luatex.def)             Requested size: 164.41711pt x 159.2444pt.
 
-./Desc.tex:77: LaTeX Error: There's no line here to end.
+Underfull \hbox (badness 1102) in paragraph at lines 38--39
+\TU/Arial(0)/m/n/10.95 Boston and Los An-ge-les Schools. In-no-va-tive Au-to-ma
+tic
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 40--41
+[]\TU/Arial(0)/m/n/10.95 Ow-ing to the chal-lenges faced in per-form-ing un-con
+-
+ []
+
+[2<./fig/asr.pdf>] [3]
+
+./Desc.tex:84: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.77 \newline
+l.84 \newline
            
 ? 
 
-./Desc.tex:77: LaTeX Error: There's no line here to end.
+./Desc.tex:84: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.77 \newline
+l.84 \newline
            
 ? 
-./Desc.tex:78: Undefined control sequence.
-l.78 \smallspace
+./Desc.tex:85: Undefined control sequence.
+l.85 \smallspace
               
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
 
-<fig/tega_jibo_combined.png, id=15, 1153.30875pt x 700.6175pt>
+<fig/tega_jibo_combined.png, id=103, 1153.30875pt x 700.6175pt>
 File: fig/tega_jibo_combined.png Graphic file (type png)
 
 <use fig/tega_jibo_combined.png>
-Package luatex.def Info: fig/tega_jibo_combined.png used on input line 97.
+Package luatex.def Info: fig/tega_jibo_combined.png used on input line 104.
 (luatex.def)             Requested size: 164.41711pt x 99.8711pt.
 
-Underfull \hbox (badness 5787) in paragraph at lines 98--98
+Underfull \hbox (badness 5787) in paragraph at lines 105--105
 \TU/Arial(0)/m/n/9 forms. Tega (left) is a ro-bust re-
  []
 
 [4<./fig/tega_jibo_combined.png>]
 
-LaTeX Warning: Reference `section_ipsyn' on page 5 undefined on input line 123.
+LaTeX Warning: Reference `section_ipsyn' on page 5 undefined on input line 130.
 
 
-LaTeX Warning: Reference `section_ipsyn' on page 5 undefined on input line 127.
+LaTeX Warning: Reference `section_ipsyn' on page 5 undefined on input line 134.
 
 [5]
-LaTeX Font Info:    Try loading font information for U+msa on input line 138.
+LaTeX Font Info:    Try loading font information for U+msa on input line 145.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 138.
+LaTeX Font Info:    Try loading font information for U+msb on input line 145.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )(load luc: /Users/samuelsp/Library/texlive/2017/texmf-var/luatex-cache/generic/
 fonts/otl/lmmono9-regular.luc) [6]
 
-LaTeX Warning: Reference `section_ipsyn' on page 7 undefined on input line 167.
+LaTeX Warning: Reference `section_ipsyn' on page 7 undefined on input line 174.
 
 [7]
 
-LaTeX Warning: Reference `section_ipsyn' on page 8 undefined on input line 190.
+LaTeX Warning: Reference `section_ipsyn' on page 8 undefined on input line 197.
 
 [8] [9] [10] [11] [12] [13]
-<fig/NRI_arch.pdf, id=54, 1338.83452pt x 1054.44698pt>
+<fig/NRI_arch.pdf, id=142, 1338.83452pt x 1054.44698pt>
 File: fig/NRI_arch.pdf Graphic file (type pdf)
  <use fig/NRI_arch.pdf>
-Package luatex.def Info: fig/NRI_arch.pdf used on input line 350.
+Package luatex.def Info: fig/NRI_arch.pdf used on input line 357.
 (luatex.def)             Requested size: 469.75502pt x 369.96298pt.
 
 
-LaTeX Warning: Reference `section_ipsyn' on page 14 undefined on input line 357.
+LaTeX Warning: Reference `section_ipsyn' on page 14 undefined on input line 364.
 
 
 [14]
 
-LaTeX Warning: Reference `section_ipsyn' on page 15 undefined on input line 361.
+LaTeX Warning: Reference `section_ipsyn' on page 15 undefined on input line 368.
 
 
-<fig/asr.pdf, id=58, 448.68748pt x 434.57288pt>
 File: fig/asr.pdf Graphic file (type pdf)
- <use fig/asr.pdf>
-Package luatex.def Info: fig/asr.pdf used on input line 373.
+<use fig/asr.pdf>
+Package luatex.def Info: fig/asr.pdf used on input line 380.
 (luatex.def)             Requested size: 164.41711pt x 159.2444pt.
  [15]
 
-LaTeX Warning: Reference `section_ipsyn' on page 16 undefined on input line 409.
+LaTeX Warning: Reference `section_ipsyn' on page 16 undefined on input line 416.
 
 
-[16<./fig/asr.pdf>] [17]
+[16] [17]
 
-LaTeX Warning: Reference `section_ipsyn' on page 18 undefined on input line 432.
+LaTeX Warning: Reference `section_ipsyn' on page 18 undefined on input line 439.
 
 
 [18] [19] [20] [21] [22] [23] [24] [25]) [26] [27<./fig/NRI_arch.pdf>]
@@ -1090,12 +1106,12 @@ LaTeX Warning: There were multiply-defined labels.
 )
 
 Here is how much of LuaTeX's memory you used:
- 15623 strings out of 494481
+ 15629 strings out of 494481
  100000,460012 words of node,token memory allocated
  595 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 7 glue, 1 kern, 12 attribute, 67 glue_spec, 12 attr
 ibute_list, 2 write nodes
-   avail lists: 1:2,2:412,3:199,4:51,5:95,6:5748,7:1198,8:92,9:129,10:31,11:565
+   avail lists: 1:4,2:412,3:199,4:51,5:95,6:5748,7:1198,8:92,9:129,10:31,11:565
  19189 multiletter control sequences out of 65536+600000
  64 fonts using 11283207 bytes
  40i,8n,79p,1891b,375s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -1106,7 +1122,7 @@ dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Master.pdf (32 pages, 1771428 bytes).
+Output written on Master.pdf (32 pages, 1771672 bytes).
 
 PDF statistics: 712 PDF objects out of 1000 (max. 8388607)
  390 compressed objects within 4 object streams
