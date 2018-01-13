@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.5.23)  12 JAN 2018 18:51
+This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.5.23)  12 JAN 2018 19:07
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Master.tex
@@ -35,7 +35,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.096 seconds
+luaotfload | main : initialization completed in 0.100 seconds
 Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -934,7 +934,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 (./Desc.tex
 ./Desc.tex:10: String contains an invalid utf-8 sequence.
-l.10 ...ch variety of spoken language and vocabulary
+l.10 ...h variety of spoken language and vocabulary 
                                                   ~\cite{asaridou2016pace}...
 ? 
 ./Desc.tex:10: String contains an invalid utf-8 sequence.
@@ -944,7 +944,7 @@ l.10 ...i.e., simply hearing language is not enough.
 <fig/asr.pdf, id=1, 448.68748pt x 434.57288pt>
 File: fig/asr.pdf Graphic file (type pdf)
  <use fig/asr.pdf>
-Package luatex.def Info: fig/asr.pdf used on input line 38.
+Package luatex.def Info: fig/asr.pdf used on input line 35.
 (luatex.def)             Requested size: 164.41711pt x 159.2444pt.
  [1
 
@@ -955,71 +955,40 @@ language=DFLT;+tlig;!
 Missing character: There is no � (U+FFFD) in font Arial:mode=node;script=latn;
 language=DFLT;+tlig;!
 ]
-Underfull \hbox (badness 1102) in paragraph at lines 43--44
-\TU/Arial(0)/m/n/10.95 Boston and Los An-ge-les Schools. In-no-va-tive Au-to-ma
-tic
- []
-
-
-Underfull \hbox (badness 1845) in paragraph at lines 45--46
-[]\TU/Arial(0)/m/n/10.95 Ow-ing to the chal-lenges faced in per-form-ing un-con
--
+Underfull \hbox (badness 2229) in paragraph at lines 40--42
+[][]\TU/Arial(0)/m/n/10.95 Through in-ter-ac-tions with robots in Boston and L.
+A.
  []
 
 [2<./fig/asr.pdf>]
-
-./Desc.tex:91: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 \newline
-           
-? 
-
-./Desc.tex:91: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 \newline
-           
-? 
-./Desc.tex:92: Undefined control sequence.
-l.92 \smallspace
-              
-? 
-<fig/game_screens.png, id=100, 979.66pt x 196.735pt>
-File: fig/game_screens.png Graphic file (type png)
-
-<use fig/game_screens.png>
-Package luatex.def Info: fig/game_screens.png used on input line 100.
-(luatex.def)             Requested size: 469.75502pt x 94.33565pt.
- [3]
-<fig/tega_jibo_combined.png, id=104, 1153.30875pt x 700.6175pt>
+<fig/tega_jibo_combined.png, id=100, 1153.30875pt x 700.6175pt>
 File: fig/tega_jibo_combined.png Graphic file (type png)
 
 <use fig/tega_jibo_combined.png>
-Package luatex.def Info: fig/tega_jibo_combined.png used on input line 114.
+Package luatex.def Info: fig/tega_jibo_combined.png used on input line 77.
 (luatex.def)             Requested size: 164.41711pt x 99.8711pt.
 
-Underfull \hbox (badness 5787) in paragraph at lines 115--115
+Underfull \hbox (badness 5787) in paragraph at lines 78--78
 \TU/Arial(0)/m/n/9 forms. Tega (left) is a ro-bust re-
  []
 
+<fig/game_screens.png, id=101, 979.66pt x 196.735pt>
+File: fig/game_screens.png Graphic file (type png)
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
+<use fig/game_screens.png>
+Package luatex.def Info: fig/game_screens.png used on input line 101.
+(luatex.def)             Requested size: 469.75502pt x 94.33565pt.
+ [3<./fig/tega_jibo_combined.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
-) [4<./fig/game_screens.png><./fig/tega_jibo_combined.png>]
+) [4<./fig/game_screens.png>]
 \openout2 = Refs.aux
- (./Refs.tex
-(./Master.bbl
+ (./Refs.tex (./Master.bbl
 LaTeX Font Info:    Try loading font information for U+msa on input line 29.
- (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 29.
@@ -1037,18 +1006,18 @@ LaTeX Warning: There were multiply-defined labels.
 )
 
 Here is how much of LuaTeX's memory you used:
- 15543 strings out of 494481
+ 15545 strings out of 494481
  100000,460012 words of node,token memory allocated
  540 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 1 kern, 7 attribute, 67 glue_spec, 7 attrib
 ute_list, 2 write nodes
-   avail lists: 1:3,2:627,3:211,4:50,5:100,6:4812,7:980,8:42,9:105,10:28,11:465
- 19123 multiletter control sequences out of 65536+600000
+   avail lists: 1:5,2:627,3:211,4:50,5:100,6:4812,7:980,8:42,9:105,10:28,11:452
+ 19125 multiletter control sequences out of 65536+600000
  50 fonts using 9855271 bytes
  40i,6n,79p,1375b,383s stack positions out of 5000i,500n,10000p,200000b,100000s
 </Library/Fonts/Arial Italic.ttf></Library/Fonts/Arial Bold Italic.ttf></Library
 /Fonts/Arial.ttf></Library/Fonts/Arial Bold.ttf>
-Output written on Master.pdf (5 pages, 1400465 bytes).
+Output written on Master.pdf (5 pages, 1400611 bytes).
 
 PDF statistics: 140 PDF objects out of 1000 (max. 8388607)
  95 compressed objects within 1 object stream
