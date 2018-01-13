@@ -1,50 +1,14 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.5.23)  12 JAN 2018 18:51
- restricted system commands enabled.
- file:line:error style messages enabled.
-**Master.tex
-(./Master.tex
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6500 64-bit) (preloaded format=xelatex 2018.1.12)  13 JAN 2018 00:04
+entering extended mode
+**./Master.tex
+(Master.tex
 LaTeX2e <2017-04-15>
-Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
-Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2017-02-01 2.5 ConTeXt Lua libraries -- extended co
-llection.(using write cache: /Users/samuelsp/Library/texlive/2017/texmf-var/luat
-ex-cache/generic)(using read cache: /usr/local/texlive/2017/texmf-var/luatex-cac
-he/generic /Users/samuelsp/Library/texlive/2017/texmf-var/luatex-cache/generic)
-luaotfload | conf : Root cache directory is /Users/samuelsp/Library/texlive/2017
-/texmf-var/luatex-cache/generic/names.
-luaotfload | init : Loading fontloader “fontloader-2017-02-11.lua” from kpse
--resolved path “/usr/local/texlive/2017/texmf-dist/tex/luatex/luaotfload/fontl
-oader-2017-02-11.lua”.
-Lua-only attribute luaotfload@state = 1
-Lua-only attribute luaotfload@noligature = 2
-Lua-only attribute luaotfload@syllabe = 3
-luaotfload | init : Context OpenType loader version “3.027”
-Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
-Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
-Inserting `luaotfload.define_font' at position 1 in `define_font'.
-Lua-only attribute luaotfload_color_attribute = 4
-luaotfload | conf : Root cache directory is /Users/samuelsp/Library/texlive/2017
-/texmf-var/luatex-cache/generic/names.
-Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
-font'.
-Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
-_font'.
-Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
-t_unsafe'.
-Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
-'.
-Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
-.
-luaotfload | main : initialization completed in 0.096 seconds
-Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size11.clo
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from /Users/samuelsp/Library/texliv
-e/2017/texmf-var/luatex-cache/generic/names/luaotfload-names.luc(load luc: /User
-s/samuelsp/Library/texlive/2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman
-10-regular.luc))
+)
 \c@part=\count79
 \c@section=\count80
 \c@subsection=\count81
@@ -57,21 +21,21 @@ s/samuelsp/Library/texlive/2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count87
@@ -86,25 +50,26 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen109
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2016/11/05 v2.16a AMS math features
+
+("C:\Program Files\MiKTeX 2.9\tex\xelatex\xetexconfig\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen111
 ))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen112
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count90
@@ -145,17 +110,17 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/enumitem/enumitem.sty
+(C:\Users\mehhe\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip46
 \enit@outerparindent=\dimen120
@@ -163,24 +128,25 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box28
 \enitdp@description=\count102
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec.sty
-(/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2017/05/13 L3 programming layer (loader) 
+("C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.sty"
+(C:\Users\mehhe\AppData\Roaming\MiKTeX\2.9\tex\latex\l3packages\xparse\xparse.s
+ty (C:\Users\mehhe\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\expl3.sty
+Package: expl3 2017/12/16 L3 programming layer (loader) 
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2017/05/13 L3 programming layer (code)
-\ucharcat@table=\catcodetable5
+(C:\Users\mehhe\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\expl3-code.tex
+Package: expl3 2017/12/16 L3 programming layer (code)
 \c_max_int=\count103
 \l_tmpa_int=\count104
 \l_tmpb_int=\count105
 \g_tmpa_int=\count106
 \g_tmpb_int=\count107
-\g__prg_map_int=\count108
-\c_log_iow=\count109
-\l_iow_line_count_int=\count110
-\l__iow_line_target_int=\count111
-\l__iow_one_indent_int=\count112
-\l__iow_indent_int=\count113
+\g__intarray_font_int=\count108
+\g__prg_map_int=\count109
+\c_log_iow=\count110
+\l_iow_line_count_int=\count111
+\l__iow_line_target_int=\count112
+\l__iow_one_indent_int=\count113
+\l__iow_indent_int=\count114
 \c_zero_dim=\dimen121
 \c_max_dim=\dimen122
 \l_tmpa_dim=\dimen123
@@ -199,30 +165,72 @@ Package: expl3 2017/05/13 L3 programming layer (code)
 \l_tmpb_muskip=\muskip14
 \g_tmpa_muskip=\muskip15
 \g_tmpb_muskip=\muskip16
-\l_keys_choice_int=\count114
-\c__fp_leading_shift_int=\count115
-\c__fp_middle_shift_int=\count116
-\c__fp_trailing_shift_int=\count117
-\c__fp_big_leading_shift_int=\count118
-\c__fp_big_middle_shift_int=\count119
-\c__fp_big_trailing_shift_int=\count120
-\c__fp_Bigg_leading_shift_int=\count121
-\c__fp_Bigg_middle_shift_int=\count122
-\c__fp_Bigg_trailing_shift_int=\count123
-\c__fp_rand_size_int=\count124
-\c__fp_rand_four_int=\count125
-\c__fp_rand_eight_int=\count126
-\l__sort_length_int=\count127
-\l__sort_min_int=\count128
-\l__sort_top_int=\count129
-\l__sort_max_int=\count130
-\l__sort_true_max_int=\count131
-\l__sort_block_int=\count132
-\l__sort_begin_int=\count133
-\l__sort_end_int=\count134
-\l__sort_A_int=\count135
-\l__sort_B_int=\count136
-\l__sort_C_int=\count137
+\l_keys_choice_int=\count115
+\c__fp_leading_shift_int=\count116
+\c__fp_middle_shift_int=\count117
+\c__fp_trailing_shift_int=\count118
+\c__fp_big_leading_shift_int=\count119
+\c__fp_big_middle_shift_int=\count120
+\c__fp_big_trailing_shift_int=\count121
+\c__fp_Bigg_leading_shift_int=\count122
+\c__fp_Bigg_middle_shift_int=\count123
+\c__fp_Bigg_trailing_shift_int=\count124
+\l__sort_length_int=\count125
+\l__sort_min_int=\count126
+\l__sort_top_int=\count127
+\l__sort_max_int=\count128
+\l__sort_true_max_int=\count129
+\l__sort_block_int=\count130
+\l__sort_begin_int=\count131
+\l__sort_end_int=\count132
+\l__sort_A_int=\count133
+\l__sort_B_int=\count134
+\l__sort_C_int=\count135
+\l__tl_build_start_index_int=\count136
+\l__tl_build_index_int=\count137
+\l__tl_analysis_normal_int=\count138
+\l__tl_analysis_index_int=\count139
+\l__tl_analysis_nesting_int=\count140
+\l__tl_analysis_type_int=\count141
+\l__regex_internal_a_int=\count142
+\l__regex_internal_b_int=\count143
+\l__regex_internal_c_int=\count144
+\l__regex_balance_int=\count145
+\l__regex_group_level_int=\count146
+\l__regex_mode_int=\count147
+\c__regex_cs_in_class_mode_int=\count148
+\c__regex_cs_mode_int=\count149
+\l__regex_catcodes_int=\count150
+\l__regex_default_catcodes_int=\count151
+\c__regex_catcode_L_int=\count152
+\c__regex_catcode_O_int=\count153
+\c__regex_catcode_A_int=\count154
+\c__regex_all_catcodes_int=\count155
+\l__regex_show_lines_int=\count156
+\l__regex_min_state_int=\count157
+\l__regex_max_state_int=\count158
+\l__regex_left_state_int=\count159
+\l__regex_right_state_int=\count160
+\l__regex_capturing_group_int=\count161
+\l__regex_min_pos_int=\count162
+\l__regex_max_pos_int=\count163
+\l__regex_curr_pos_int=\count164
+\l__regex_start_pos_int=\count165
+\l__regex_success_pos_int=\count166
+\l__regex_curr_char_int=\count167
+\l__regex_curr_catcode_int=\count168
+\l__regex_last_char_int=\count169
+\l__regex_case_changed_char_int=\count170
+\l__regex_curr_state_int=\count171
+\l__regex_step_int=\count172
+\l__regex_min_active_int=\count173
+\l__regex_max_active_int=\count174
+\l__regex_replacement_csnames_int=\count175
+\l__regex_match_count_int=\count176
+\l__regex_min_submatch_int=\count177
+\l__regex_submatch_int=\count178
+\l__regex_zeroth_submatch_int=\count179
+\g__debug_trace_regex_int=\count180
 \c_empty_box=\box29
 \l_tmpa_box=\box30
 \l_tmpb_box=\box31
@@ -264,83 +272,76 @@ Package: expl3 2017/05/13 L3 programming layer (code)
 \l__coffin_scaled_total_height_dim=\dimen150
 \l__coffin_scaled_width_dim=\dimen151
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
-File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count138
+(C:\Users\mehhe\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
+\g__driver_image_int=\count181
 \l__driver_tmp_box=\box44
 ))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2017/05/13 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count139
-\g__xparse_grabber_int=\count140
-\l__xparse_m_args_int=\count141
-\l__xparse_mandatory_args_int=\count142
-\l__xparse_v_nesting_int=\count143
+Package: xparse 2017/12/16 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count182
+\g__xparse_grabber_int=\count183
+\l__xparse_m_args_int=\count184
+\l__xparse_mandatory_args_int=\count185
+\l__xparse_v_nesting_int=\count186
 )
-Package: fontspec 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2017/03/31 2.6a Font selection for XeLaTeX and LuaLaTeX
-(/usr/local/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
-Package: fontspec-luatex 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTe
+Package: fontspec 2017/11/05 v2.6f Font selection for XeLaTeX and LuaLaTeX
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec-xetex.sty"
+Package: fontspec-xetex 2017/11/05 v2.6f Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count144
-\l__fontspec_language_int=\count145
-\l__fontspec_strnum_int=\count146
-\l__fontspec_tmp_int=\count147
-\l__fontspec_em_int=\count148
-\l__fontspec_emdef_int=\count149
-\l__fontspec_strong_int=\count150
-\l__fontspec_strongdef_int=\count151
+\l__fontspec_script_int=\count187
+\l__fontspec_language_int=\count188
+\l__fontspec_strnum_int=\count189
+\l__fontspec_tmp_int=\count190
+\l__fontspec_em_int=\count191
+\l__fontspec_emdef_int=\count192
+\l__fontspec_strong_int=\count193
+\l__fontspec_strongdef_int=\count194
 \l__fontspec_tmpa_dim=\dimen152
 \l__fontspec_tmpb_dim=\dimen153
 \l__fontspec_tmpc_dim=\dimen154
 \g__file_internal_ior=\read1
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/tuenc.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\tuenc.def"
 File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
 ))
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \fontspec with sig. 'O{}mO{}' on line 475.
+. Defining command \fontspec with sig. 'O{}mO{}' on line 546.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmainfont with sig. 'O{}mO{}' on line 486.
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 550.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setsansfont with sig. 'O{}mO{}' on line 506.
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 554.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmonofont with sig. 'O{}mO{}' on line 526.
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 558.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setromanfont with sig. 'O{}mO{}' on line 546.
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 562.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathrm with sig. 'O{}mO{}' on line 550.
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 566.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 558.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathsf with sig. 'O{}mO{}' on line 566.
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 570.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
@@ -350,158 +351,154 @@ LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 589.
+. Defining command \setromanfont with sig. 'O{}mO{}' on line 578.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontface with sig. 'mO{}mO{}' on line 606.
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 582.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \defaultfontfeatures with sig. 't+om' on line 617.
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 586.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \addfontfeatures with sig. 'm' on line 648.
+. Defining command \defaultfontfeatures with sig. 't+om' on line 590.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontfeature with sig. 'mm' on line 675.
+. Defining command \addfontfeatures with sig. 'm' on line 594.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newAATfeature with sig. 'mmmm' on line 689.
+. Defining command \addfontfeature with sig. 'm' on line 598.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newopentypefeature with sig. 'mmm' on line 703.
+. Defining command \newfontfeature with sig. 'mm' on line 602.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newICUfeature with sig. 'mmm' on line 723.
+. Defining command \newAATfeature with sig. 'mmmm' on line 606.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \aliasfontfeature with sig. 'mm' on line 727.
+. Defining command \newopentypefeature with sig. 'mmm' on line 610.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 748.
+. Defining command \newICUfeature with sig. 'mmm' on line 614.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontscript with sig. 'mm' on line 781.
+. Defining command \aliasfontfeature with sig. 'mm' on line 618.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontlanguage with sig. 'mm' on line 785.
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 622.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareFontsExtensions with sig. 'm' on line 789.
+. Defining command \newfontscript with sig. 'mm' on line 626.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 800.
+. Defining command \newfontlanguage with sig. 'mm' on line 630.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingCommand with sig. 'mO{}m' on line 3162.
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 634.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingAccent with sig. 'mm' on line 3168.
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 638.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingSymbol with sig. 'mm' on line 3174.
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3636.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingComposite with sig. 'mmm' on line 3180.
+. Defining command \EncodingAccent with sig. 'mm' on line 3642.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3186.
+. Defining command \EncodingSymbol with sig. 'mm' on line 3648.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3211.
+. Defining command \EncodingComposite with sig. 'mmm' on line 3654.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareSymbol with sig. 'm' on line 3217.
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3660.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareComposite with sig. 'mm' on line 3225.
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3685.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareSymbol with sig. 'm' on line 3691.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareAccent with sig. 'm' on line 3697.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareCommand with sig. 'm' on line 3703.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareComposite with sig. 'mm' on line 3710.
 .................................................
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec.cfg)
-LaTeX Info: Redefining \itshape on input line 3410.
-LaTeX Info: Redefining \slshape on input line 3415.
-LaTeX Info: Redefining \scshape on input line 3420.
-LaTeX Info: Redefining \upshape on input line 3425.
-LaTeX Info: Redefining \em on input line 3455.
-LaTeX Info: Redefining \emph on input line 3480.
-(load luc: /Users/samuelsp/Library/texlive/2017/texmf-var/luatex-cache/generic/f
-onts/otl/lmroman10-bold.luc)(load luc: /Users/samuelsp/Library/texlive/2017/texm
-f-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc)
-LaTeX Info: Redefining \- on input line 3531.
+("C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.cfg")
+LaTeX Info: Redefining \itshape on input line 3895.
+LaTeX Info: Redefining \slshape on input line 3900.
+LaTeX Info: Redefining \scshape on input line 3905.
+LaTeX Info: Redefining \upshape on input line 3910.
+LaTeX Info: Redefining \em on input line 3940.
+LaTeX Info: Redefining \emph on input line 3965.
+LaTeX Info: Redefining \- on input line 4019.
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \oldstylenums with sig. 'm' on line 3626.
+. Redefining command \oldstylenums with sig. 'm' on line 4114.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \liningnums with sig. 'm' on line 3630.
+. Defining command \liningnums with sig. 'm' on line 4118.
 .................................................
 ))
-luaotfload | cache : Lookup cache loaded from /Users/samuelsp/Library/texlive/20
-17/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.(load luc: /
-Users/samuelsp/Library/texlive/2017/texmf-var/luatex-cache/generic/fonts/otl/ari
-al.luc)
-\g__fontspec_family_Arial_int=\count152
-(load luc: /Users/samuelsp/Library/texlive/2017/texmf-var/luatex-cache/generic/f
-onts/otl/arial-bold-italic.luc)(load luc: /Users/samuelsp/Library/texlive/2017/t
-exmf-var/luatex-cache/generic/fonts/otl/arial-bold.luc)(load luc: /Users/samuels
-p/Library/texlive/2017/texmf-var/luatex-cache/generic/fonts/otl/arial-italic.luc
-)
-luaotfload | aux : font no 18 (nil) does not define feature smcp for script latn
- with language dflt
-luaotfload | aux : no font with id 18
-luaotfload | aux : font no 20 (nil) does not define feature smcp for script latn
- with language dflt
-luaotfload | aux : no font with id 20
-luaotfload | aux : font no 21 (nil) does not define feature smcp for script latn
- with language dflt
-luaotfload | aux : no font with id 21
-luaotfload | aux : font no 19 (nil) does not define feature smcp for script latn
- with language dflt
-luaotfload | aux : no font with id 19
+\g__fontspec_family_Arial_int=\count195
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -511,56 +508,60 @@ luaotfload | aux : no font with id 19
 .  This font family consists of the following NFSS series/shapes:
 .  
 . - 'normal' (m/n) with NFSS spec.:
-. <->"Arial:mode=node;script=latn;language=DFLT;+tlig;"
-. - 'small caps'  (m/sc) with NFSS spec.: 
+. <->"Arial/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.:
+. <->"Arial/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
 . - 'bold' (bx/n) with NFSS spec.:
-. <->"Arial/B:mode=node;script=latn;language=DFLT;+tlig;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+. <->"Arial/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.:
+. <->"Arial/B/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
 . - 'italic' (m/it) with NFSS spec.:
-. <->"Arial/I:mode=node;script=latn;language=DFLT;+tlig;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.: 
+. <->"Arial/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. <->"Arial/I/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
 . - 'bold italic' (bx/it) with NFSS spec.:
-. <->"Arial/BI:mode=node;script=latn;language=DFLT;+tlig;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+. <->"Arial/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+. <->"Arial/BI/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
 .................................................
 LaTeX Info: Redefining \rmfamily on input line 29.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.sty
-Package: subfigure 2002/03/15 v2.1.5 subfigure package
+(C:\Users\mehhe\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfigtopskip=\skip53
 \subfigcapskip=\skip54
 \subfigcaptopadj=\dimen155
 \subfigbottomskip=\skip55
 \subfigcapmargin=\dimen156
 \subfiglabelskip=\skip56
-\c@subfigure=\count153
-\c@lofdepth=\count154
-\c@subtable=\count155
-\c@lotdepth=\count156
+\c@subfigure=\count196
+\c@lofdepth=\count197
+\c@subtable=\count198
+\c@lotdepth=\count199
 
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-(/usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+(C:\Users\mehhe\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.cfg)
 \subfig@top=\skip57
 \subfig@bottom=\skip58
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+(C:\Users\mehhe\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+(C:\Users\mehhe\AppData\Roaming\MiKTeX\2.9\tex\latex\wrapfig\wrapfig.sty
 \wrapoverhang=\dimen157
 \WF@size=\dimen158
-\c@WF@wrappedlines=\count157
+\c@WF@wrappedlines=\count266
 \WF@box=\box45
 \WF@everypar=\toks22
 Package: wrapfig 2003/01/31  v 3.6
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+(C:\Users\mehhe\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+(C:\Users\mehhe\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen159
@@ -571,94 +572,85 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen164
 \caption@hangindent=\dimen165
 )
-\c@ContinuedFloat=\count158
+\c@ContinuedFloat=\count267
 Package caption Info: subfigure package is loaded.
 Package caption Info: wrapfig package is loaded.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/lscape.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: luatex.def on input line 99.
+Package graphics Info: Driver file: xetex.def on input line 99.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/luatex.def
-File: luatex.def 2017/01/12 v0.01h Graphics/Color for luaTeX
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count159
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\xetex.def"
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 )))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/longtable.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip59
 \LTright=\skip60
 \LTpre=\skip61
 \LTpost=\skip62
-\LTchunksize=\count160
+\LTchunksize=\count268
 \LTcapwidth=\dimen166
 \LT@head=\box46
 \LT@firsthead=\box47
 \LT@foot=\box48
 \LT@lastfoot=\box49
-\LT@cols=\count161
-\LT@rows=\count162
-\c@LT@tables=\count163
-\c@LT@chunks=\count164
+\LT@cols=\count269
+\LT@rows=\count270
+\c@LT@tables=\count271
+\c@LT@chunks=\count272
 \LT@p@ftn=\toks23
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/rotating.sty
-Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+(C:\Users\mehhe\AppData\Roaming\MiKTeX\2.9\tex\latex\rotating\rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@height=\dimen167
 \Gin@req@width=\dimen168
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@r@tfl@t=\count165
+\c@r@tfl@t=\count273
 \rotFPtop=\skip63
 \rotFPbot=\skip64
 \rot@float@box=\box50
 \rot@mess@toks=\toks24
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/multirow/multirow.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
 Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
 \multirow@colwidth=\skip65
-\multirow@cntb=\count166
+\multirow@cntb=\count274
 \multirow@dima=\skip66
 \bigstrutjot=\dimen169
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/ctable/ctable.sty
-Package: ctable 2015/10/17 v1.31 ctable package for flexible typesetting of tabl
-e and figure floats using key/value directives
+(C:\Users\mehhe\AppData\Roaming\MiKTeX\2.9\tex\latex\ctable\ctable.sty
+Package: ctable 2015/10/17 v1.31 ctable package for flexible typesetting of tab
+le and figure floats using key/value directives
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count167
+(C:\Users\mehhe\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
+Package: etoolbox 2017/11/22 v2.5 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count275
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+(C:\Users\mehhe\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: luatex.def on input line 225.
+Package xcolor Info: Driver file: xetex.def on input line 225.
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
@@ -667,18 +659,18 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
 \XKV@toks=\toks25
 \XKV@tempa@toks=\toks26
 )
-\XKV@depth=\count168
+\XKV@depth=\count276
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \col@sep=\dimen170
 \extrarowheight=\dimen171
@@ -686,18 +678,18 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \extratabsurround=\skip67
 \backup@length=\skip68
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/tabularx.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
 Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
 \TX@col@width=\dimen172
 \TX@old@table=\dimen173
 \TX@old@col=\dimen174
 \TX@target=\dimen175
 \TX@delta=\dimen176
-\TX@cols=\count169
+\TX@cols=\count277
 \TX@ftn=\toks28
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/booktabs/booktabs.sty
-Package: booktabs 2016/04/27 v1.618033 publication quality tables
+(C:\Users\mehhe\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen177
 \lightrulewidth=\dimen178
 \cmidrulewidth=\dimen179
@@ -708,21 +700,19 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \cmidrulesep=\dimen184
 \cmidrulekern=\dimen185
 \defaultaddspace=\dimen186
-\@cmidla=\count170
-\@cmidlb=\count171
+\@cmidla=\count278
+\@cmidlb=\count279
 \@aboverulesep=\dimen187
 \@belowrulesep=\dimen188
-\@thisruleclass=\count172
-\@lastruleclass=\count173
+\@thisruleclass=\count280
+\@lastruleclass=\count281
 \@thisrulewidth=\dimen189
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/transparent.sty
-Package: transparent 2016/05/16 v1.1 Transparency via pdfTeX's color stack (HO)
 
+Package ctable Warning: 
+(ctable)                Transparency disabled: pdfTeX is not running in PDF mod
+e .
 
-Package transparent Warning: Your pdfTeX version does not support color stacks.
-
-)
 \@CTframesep=\dimen190
 \@dfltCTframesep=\dimen191
 \@CTframerule=\dimen192
@@ -743,7 +733,7 @@ Package transparent Warning: Your pdfTeX version does not support color stacks.
 \@CToldrule=\dimen263
 \CT@t=\box51
 \@CTcurftwidth=\dimen264
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (C:\Users\mehhe\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box52
 \beforetitleunit=\skip69
@@ -755,12 +745,12 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidthlast=\dimen268
 \titlewidthfirst=\dimen269
 )
-(./Master.aux (./Desc.aux
+(Master.aux (Desc.aux
 
 LaTeX Warning: Label `fig:robots' multiply defined.
 
-) (./Refs.aux))
-\openout1 = Master.aux
+) (Refs.aux))
+\openout1 = `Master.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
 LaTeX Font Info:    ... okay on input line 55.
@@ -777,7 +767,6 @@ LaTeX Font Info:    ... okay on input line 55.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
 LaTeX Font Info:    ... okay on input line 55.
 
-*geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
@@ -870,188 +859,498 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 55.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: longtable package is loaded.
-(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/ltcaption.sty
+(C:\Users\mehhe\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ltcaption.sty
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
-
-(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count174
-\scratchdimen=\dimen270
-\scratchbox=\box53
-\nofMPsegments=\count175
-\nofMParguments=\count176
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count177
-\MPscratchDim=\dimen271
-\MPnumerator=\count178
-\makeMPintoPDFobject=\count179
-\everyMPtoPDFconversion=\toks31
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX detected.
-))))
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO)
-
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks32
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 43
-8.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG
-,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-
-))
-\openout2 = Desc.aux
-
-(./Desc.tex
-./Desc.tex:10: String contains an invalid utf-8 sequence.
-l.10 ...ch variety of spoken language and vocabulary
-                                                  ~\cite{asaridou2016pace}...
-? 
-./Desc.tex:10: String contains an invalid utf-8 sequence.
-l.10 ...i.e., simply hearing language is not enough.
-                                                   Children need to activel...
-? 
-<fig/asr.pdf, id=1, 448.68748pt x 434.57288pt>
-File: fig/asr.pdf Graphic file (type pdf)
- <use fig/asr.pdf>
-Package luatex.def Info: fig/asr.pdf used on input line 38.
-(luatex.def)             Requested size: 164.41711pt x 159.2444pt.
- [1
+\openout2 = `Desc.aux'.
 
 
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-Missing character: There is no � (U+FFFD) in font Arial:mode=node;script=latn;
-language=DFLT;+tlig;!
-Missing character: There is no � (U+FFFD) in font Arial:mode=node;script=latn;
-language=DFLT;+tlig;!
-]
-Underfull \hbox (badness 1102) in paragraph at lines 43--44
-\TU/Arial(0)/m/n/10.95 Boston and Los An-ge-les Schools. In-no-va-tive Au-to-ma
-tic
+(Desc.tex
+Overfull \hbox (10.52525pt too wide) in paragraph at lines 8--9
+\TU/Arial(0)/m/n/10.95 programs support the development of literacy skills
  []
 
 
-Underfull \hbox (badness 1845) in paragraph at lines 45--46
-[]\TU/Arial(0)/m/n/10.95 Ow-ing to the chal-lenges faced in per-form-ing un-con
--
- []
-
-[2<./fig/asr.pdf>]
-
-./Desc.tex:91: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 \newline
-           
-? 
-
-./Desc.tex:91: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 \newline
-           
-? 
-./Desc.tex:92: Undefined control sequence.
-l.92 \smallspace
-              
-? 
-<fig/game_screens.png, id=100, 979.66pt x 196.735pt>
-File: fig/game_screens.png Graphic file (type png)
-
-<use fig/game_screens.png>
-Package luatex.def Info: fig/game_screens.png used on input line 100.
-(luatex.def)             Requested size: 469.75502pt x 94.33565pt.
- [3]
-<fig/tega_jibo_combined.png, id=104, 1153.30875pt x 700.6175pt>
-File: fig/tega_jibo_combined.png Graphic file (type png)
-
-<use fig/tega_jibo_combined.png>
-Package luatex.def Info: fig/tega_jibo_combined.png used on input line 114.
-(luatex.def)             Requested size: 164.41711pt x 99.8711pt.
-
-Underfull \hbox (badness 5787) in paragraph at lines 115--115
-\TU/Arial(0)/m/n/9 forms. Tega (left) is a ro-bust re-
+Overfull \hbox (16.24802pt too wide) in paragraph at lines 10--11
+\TU/Arial(0)/m/n/10.95 a rich variety of spoken language and vocabulary[[]].
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
-
+Overfull \hbox (4.48996pt too wide) in paragraph at lines 10--11
+\TU/Arial(0)/m/n/10.95 ence, i.e., simply hearing language is not enough.
  []
 
-) [4<./fig/game_screens.png><./fig/tega_jibo_combined.png>]
-\openout2 = Refs.aux
- (./Refs.tex
-(./Master.bbl
-LaTeX Font Info:    Try loading font information for U+msa on input line 29.
- (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+Overfull \hbox (1.02066pt too wide) in paragraph at lines 10--11
+\TU/Arial(0)/m/n/10.95 Children need to actively participate and be emo-
+ []
+
+
+Overfull \hbox (8.52917pt too wide) in paragraph at lines 13--14
+\TU/Arial(0)/m/n/10.95 diverse cognitive and pre-literacy education needs
+ []
+
+
+Overfull \hbox (7.12302pt too wide) in paragraph at lines 21--22
+\TU/Arial(0)/m/n/10.95 tential to augment the efforts of parents and teach-
+ []
+
+
+Overfull \hbox (3.46407pt too wide) in paragraph at lines 25--26
+\TU/Arial(0)/m/n/10.95 further development and widespread deployment
+ []
+
+
+Overfull \hbox (3.40605pt too wide) in paragraph at lines 27--28
+[]\TU/Arial(0)/m/n/10.95 Through our research, we propose to address
+ []
+
+
+Overfull \hbox (14.20831pt too wide) in paragraph at lines 29--29
+|[]\TU/Arial(0)/bx/n/11 Development of Automatic Speech Recog-
+ []
+
+
+Overfull \hbox (10.513pt too wide) in paragraph at lines 29--29
+\TU/Arial(0)/bx/n/11 nition and Spoken Language Understand-
+ []
+
+
+Overfull \hbox (4.24673pt too wide) in paragraph at lines 29--29
+\TU/Arial(0)/bx/n/11 ing systems for young children’s speech| 
+ []
+
+
+Overfull \hbox (23.86905pt too wide) in paragraph at lines 31--31
+ |[]\TU/Arial(0)/bx/it/10.95 Automatic speech recognition for young
+ []
+
+
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 32--33
+\TU/Arial(0)/m/n/10.95 acterized by (i) more omissions, substitutions and
+ []
+
+
+Overfull \hbox (9.67513pt too wide) in paragraph at lines 32--33
+\TU/Arial(0)/m/n/10.95 discrimination more difficult (iii) more creative word
+ []
+
+
+Overfull \hbox (6.45288pt too wide) in paragraph at lines 32--33
+\TU/Arial(0)/m/n/10.95 developing motor skills (v) larger variation in spec-
+ []
+
+
+Overfull \hbox (2.19695pt too wide) in paragraph at lines 32--33
+\TU/Arial(0)/m/n/10.95 tral and temporal parameters and (vi) larger num-
+ []
+
+
+Overfull \hbox (7.98088pt too wide) in paragraph at lines 32--33
+\TU/Arial(0)/m/n/10.95 ber of disfluencies  [[], []]. Though are tools achiev-
+ []
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 34.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 29.
+LaTeX Font Info:    Try loading font information for U+msb on input line 34.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))) [1
+)
+Overfull \hbox (1.61311pt too wide) in paragraph at lines 34--35
+\TU/Arial(0)/m/n/10.95 mance of several cloud-based ASR APIs on child
+ []
+
+
+Overfull \hbox (8.1187pt too wide) in paragraph at lines 34--35
+\TU/Arial(0)/m/n/10.95 and kindergarten children(ages 4-7 (5.13 $\OMS/cmsy/m/n/
+10.95 ^^F$ \TU/Arial(0)/m/n/10.95 0.64)),
+ []
+
+File: fig/asr.pdf Graphic file (type pdf)
+<use fig/asr.pdf>
+
+Overfull \hbox (8.98956pt too wide) in paragraph at lines 43--44
+\TU/Arial(0)/m/n/10.95 les Schools. Innovative Automatic Speech Recog-
+ []
+
+
+Overfull \hbox (1.59175pt too wide) in paragraph at lines 43--44
+\TU/Arial(0)/m/n/10.95 nition (ASR) systems based on Deep Neural Net-
+ []
+
+
+Overfull \hbox (1.61845pt too wide) in paragraph at lines 43--44
+\TU/Arial(0)/m/n/10.95 The goal is to develop innovative ASR algorithms
+ []
+
+[1
+
 
 
 ]
-(./Master.aux (./Desc.aux) (./Refs.aux))
+Overfull \hbox (3.73738pt too wide) in paragraph at lines 45--46
+[][]\TU/Arial(0)/m/n/10.95 Owing to
+ []
+
+
+Overfull \hbox (14.14447pt too wide) in paragraph at lines 45--46
+\TU/Arial(0)/m/n/10.95 the challenges
+ []
+
+
+Overfull \hbox (3.37805pt too wide) in paragraph at lines 45--46
+\TU/Arial(0)/m/n/10.95 faced in per-
+ []
+
+
+Overfull \hbox (1.15024pt too wide) in paragraph at lines 45--46
+\TU/Arial(0)/m/n/10.95 constrained
+ []
+
+
+Overfull \hbox (27.93355pt too wide) in paragraph at lines 45--46
+\TU/Arial(0)/m/n/10.95 children’s speech
+ []
+
+
+Overfull \hbox (17.38101pt too wide) in paragraph at lines 45--46
+\TU/Arial(0)/m/n/10.95 recognition  [[]],
+ []
+
+
+Overfull \hbox (6.42032pt too wide) in paragraph at lines 45--46
+\TU/Arial(0)/m/n/10.95 strain the do-
+ []
+
+
+Overfull \hbox (2.55821pt too wide) in paragraph at lines 45--46
+\TU/Arial(0)/m/n/10.95 sessment of
+ []
+
+
+Overfull \hbox (2.96811pt too wide) in paragraph at lines 45--46
+\TU/Arial(0)/m/n/10.95 comprehen-
+ []
+
+
+Overfull \hbox (1.54947pt too wide) in paragraph at lines 45--46
+\TU/Arial(0)/m/n/10.95 sion of early
+ []
+
+
+Overfull \hbox (10.48735pt too wide) in paragraph at lines 45--46
+\TU/Arial(0)/m/n/10.95 language ma-
+ []
+
+
+Overfull \hbox (69.10324pt too wide) in paragraph at lines 47--47
+ |[]\TU/Arial(0)/bx/it/10.95 Understanding
+ []
+
+
+Overfull \hbox (9.35754pt too wide) in paragraph at lines 47--48
+\TU/Arial(0)/m/n/10.95 ability and developmental changes, speaker adap-
+ []
+
+
+Overfull \hbox (2.01869pt too wide) in paragraph at lines 47--48
+\TU/Arial(0)/m/n/10.95 mation which may introduce confusability into the
+ []
+
+
+Overfull \hbox (5.77765pt too wide) in paragraph at lines 49--50
+\TU/Arial(0)/m/n/10.95 spontaneous speech of children. Hence we, need
+ []
+
+
+Overfull \hbox (4.83464pt too wide) in paragraph at lines 49--50
+\TU/Arial(0)/m/n/10.95 the children come from a variety of linguistic back-
+ []
+
+
+Overfull \hbox (17.09439pt too wide) in paragraph at lines 59--59
+\TU/Arial(0)/bx/n/11 children’s spoken language and early read-
+ []
+
+
+Overfull \hbox (1.75485pt too wide) in paragraph at lines 64--65
+[]\TU/Arial(0)/bx/n/10.95 Span to Multi-word reading tasks. \TU/Arial(0)/m/n/10
+.95 Our pre-
+ []
+
+
+Overfull \hbox (4.44785pt too wide) in paragraph at lines 64--65
+\TU/Arial(0)/m/n/10.95 more accurately assessed student’s performance
+ []
+
+
+Overfull \hbox (6.50635pt too wide) in paragraph at lines 64--65
+\TU/Arial(0)/m/n/10.95 propose to extend these results to more advanced
+ []
+
+
+Overfull \hbox (7.36293pt too wide) in paragraph at lines 66--68
+[]\TU/Arial(0)/bx/n/10.95 Expand beyond tactile based inputs to spo-
+ []
+
+
+Overfull \hbox (2.22902pt too wide) in paragraph at lines 66--68
+\TU/Arial(0)/m/n/10.95 identifying (by tapping on a touchscreen) the writ-
+ []
+
+
+Overfull \hbox (6.30139pt too wide) in paragraph at lines 66--68
+\TU/Arial(0)/m/n/10.95 technologies will enable us to incorporate speech-
+ []
+
+
+Overfull \hbox (3.26413pt too wide) in paragraph at lines 66--68
+\TU/Arial(0)/m/n/10.95 based data, such as children’s spoken responses
+ []
+
+
+Overfull \hbox (3.2837pt too wide) in paragraph at lines 66--68
+\TU/Arial(0)/m/n/10.95 and pronunciation, enabling new interactions and
+ []
+
+
+Overfull \hbox (18.91264pt too wide) in paragraph at lines 69--70
+\TU/Arial(0)/m/n/10.95 ate model improvement. Generally speaking, knowl-
+ []
+
+
+Overfull \hbox (3.64229pt too wide) in paragraph at lines 69--70
+\TU/Arial(0)/m/n/10.95 edge assessment models improve with additional
+ []
+
+
+Overfull \hbox (2.5272pt too wide) in paragraph at lines 69--70
+\TU/Arial(0)/m/n/10.95 data. But collecting additional data often requires
+ []
+
+
+Overfull \hbox (3.86862pt too wide) in paragraph at lines 69--70
+\TU/Arial(0)/m/n/10.95 asking additional questions or prompting the child
+ []
+
+
+Overfull \hbox (1.46503pt too wide) in paragraph at lines 69--70
+\TU/Arial(0)/m/n/10.95 from any single session. By employing an active-
+ []
+
+
+Overfull \hbox (3.03276pt too wide) in paragraph at lines 69--70
+\TU/Arial(0)/m/n/10.95 provide the maximum expected inferential power,
+ []
+
+[2]
+Overfull \hbox (12.16275pt too wide) in paragraph at lines 71--72
+\TU/Arial(0)/m/n/10.95 velop personalized assessment algorithms, trained
+ []
+
+
+Overfull \hbox (4.64526pt too wide) in paragraph at lines 75--75
+\TU/Arial(0)/bx/n/11 autonomous, collaborative, peer-like so-
+ []
+
+
+Overfull \hbox (8.75128pt too wide) in paragraph at lines 75--75
+\TU/Arial(0)/bx/n/11 with effective educational activities lever-
+ []
+
+
+Overfull \hbox (3.23024pt too wide) in paragraph at lines 77--78
+\TU/Arial(0)/m/n/10.95 robot, which significantly hindered real-time robot
+ []
+
+
+Overfull \hbox (4.91127pt too wide) in paragraph at lines 77--78
+\TU/Arial(0)/m/n/10.95 adapt to children’s unique educational needs over
+ []
+
+
+Overfull \hbox (3.24094pt too wide) in paragraph at lines 81--82
+\TU/Arial(0)/m/n/10.95 guistic) skills, and personalized content sequenc-
+ []
+
+
+Overfull \hbox (4.66283pt too wide) in paragraph at lines 83--84
+\TU/Arial(0)/m/n/10.95 capture real-time audio, video, touch interactions,
+ []
+
+
+Overfull \hbox (1.23059pt too wide) in paragraph at lines 83--84
+\TU/Arial(0)/m/n/10.95 putational models, assess children’s reading and
+ []
+
+
+Overfull \hbox (8.11928pt too wide) in paragraph at lines 95--96
+\TU/Arial(0)/m/n/10.95 three interactive game environments and a shared
+ []
+
+
+Overfull \hbox (1.69455pt too wide) in paragraph at lines 95--96
+\TU/Arial(0)/m/n/10.95 book. Second, a competitive word-pronunciation
+ []
+
+File: fig/game_screens.png Graphic file (type bmp)
+<fig/game_screens.png>
+
+Overfull \hbox (239.87752pt too wide) in paragraph at lines 99--100
+ [][] 
+ []
+
+[3]
+Overfull \hbox (3.71625pt too wide) in paragraph at lines 109--109
+|[]\TU/Arial(0)/bx/n/12 Strength of Team to Achieve Proposed
+ []
+
+
+Overfull \hbox (0.79866pt too wide) in paragraph at lines 111--112
+\TU/Arial(0)/m/n/10.95 The UCLA Speech Processing and Auditory Per-
+ []
+
+File: fig/tega_jibo_combined.png Graphic file (type bmp)
+<fig/tega_jibo_combined.png>
+
+Underfull \hbox (badness 5711) in paragraph at lines 116--116
+\TU/Arial(0)/m/n/9 forms. Tega (left) is a robust re-
+ []
+
+
+Overfull \hbox (1.2886pt too wide) in paragraph at lines 120--121
+[][]\TU/Arial(0)/m/n/10.95 The MIT
+ []
+
+
+Overfull \hbox (10.0828pt too wide) in paragraph at lines 120--121
+\TU/Arial(0)/m/n/10.95 group has de-
+ []
+
+
+Overfull \hbox (3.19447pt too wide) in paragraph at lines 120--121
+\TU/Arial(0)/m/n/10.95 veloped and
+ []
+
+
+Overfull \hbox (10.4713pt too wide) in paragraph at lines 120--121
+\TU/Arial(0)/m/n/10.95 procured sev-
+ []
+
+
+Overfull \hbox (13.11435pt too wide) in paragraph at lines 120--121
+\TU/Arial(0)/m/n/10.95 eral robot plat-
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 120--121
+\TU/Arial(0)/m/n/10.95 forms (see
+ []
+
+
+Overfull \hbox (5.2066pt too wide) in paragraph at lines 120--121
+\TU/Arial(0)/m/n/10.95 pable of sus-
+ []
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 120--121
+\TU/Arial(0)/m/n/10.95 taining en-
+ []
+
+
+Overfull \hbox (13.5403pt too wide) in paragraph at lines 120--121
+\TU/Arial(0)/m/n/10.95 gagement and
+ []
+
+
+Overfull \hbox (6.4096pt too wide) in paragraph at lines 120--121
+\TU/Arial(0)/m/n/10.95 interest in re-
+ []
+
+
+Overfull \hbox (5.00699pt too wide) in paragraph at lines 120--121
+\TU/Arial(0)/m/n/10.95 peated inter-
+ []
+
+
+Overfull \hbox (9.72336pt too wide) in paragraph at lines 120--121
+\TU/Arial(0)/m/n/10.95 actions. Over
+ []
+
+
+Overfull \hbox (5.20126pt too wide) in paragraph at lines 120--121
+\TU/Arial(0)/m/n/10.95 the past sev-
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 120--121
+\TU/Arial(0)/m/n/10.95 eral years, they have built extensive cloud-
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 120--121
+\TU/Arial(0)/m/n/10.95 of these systems in schools, hospitals, and
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 120--121
+\TU/Arial(0)/m/n/10.95 week parallel deployment of adaptive story-
+ []
+
+
+Overfull \hbox (1.82977pt too wide) in paragraph at lines 122--123
+\TU/Arial(0)/m/n/10.95 established track record of foundational research
+ []
+
+
+Overfull \hbox (2.85632pt too wide) in paragraph at lines 122--123
+\TU/Arial(0)/m/n/10.95 bust technologies for analyzing children’s speech
+ []
+
+
+Overfull \hbox (0.63213pt too wide) in paragraph at lines 122--123
+\TU/Arial(0)/m/n/10.95 and combining these technologies with adaptive,
+ []
+
+
+Overfull \hbox (6.07289pt too wide) in paragraph at lines 122--123
+\TU/Arial(0)/m/n/10.95 personalized assessment algorithms, we propose
+ []
+
+
+Overfull \hbox (2.46603pt too wide) in paragraph at lines 122--123
+\TU/Arial(0)/m/n/10.95 language education experiences for young learn-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+) [4]
+\openout2 = `Refs.aux'.
+
+ (Refs.tex (Master.bbl)) [1
+
+
+
+] (Master.aux (Desc.aux) (Refs.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
-)
+ ) 
+Here is how much of TeX's memory you used:
+ 15560 strings out of 427839
+ 310147 string characters out of 3152524
+ 415565 words of memory out of 3000000
+ 19373 multiletter control sequences out of 15000+200000
+ 537270 words of font info for 69 fonts, out of 3000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 40i,5n,79p,10410b,360s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Here is how much of LuaTeX's memory you used:
- 15543 strings out of 494481
- 100000,460012 words of node,token memory allocated
- 540 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 1 kern, 7 attribute, 67 glue_spec, 7 attrib
-ute_list, 2 write nodes
-   avail lists: 1:3,2:627,3:211,4:50,5:100,6:4812,7:980,8:42,9:105,10:28,11:465
- 19123 multiletter control sequences out of 65536+600000
- 50 fonts using 9855271 bytes
- 40i,6n,79p,1375b,383s stack positions out of 5000i,500n,10000p,200000b,100000s
-</Library/Fonts/Arial Italic.ttf></Library/Fonts/Arial Bold Italic.ttf></Library
-/Fonts/Arial.ttf></Library/Fonts/Arial Bold.ttf>
-Output written on Master.pdf (5 pages, 1400465 bytes).
-
-PDF statistics: 140 PDF objects out of 1000 (max. 8388607)
- 95 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 131072)
- 1 words of extra memory for PDF output out of 10000 (max. 100000000)
-
+Output written on Master.pdf (5 pages).

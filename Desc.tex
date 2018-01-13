@@ -7,7 +7,7 @@
  
 Learning to read is one of the most important educational tasks of our schools, but in 2013, only 35\% of 4th, 36\% of 8th and 38\% of 12th grade students tested on the National Assessment of Educational Progress (NAEP) reached proficiency in reading~\cite{nces2015}. Pre-literacy skills, like phonological awareness, alphabetic and vocabulary knowledge, delivered by quality preschool programs support the development of literacy skills in later grades and can help prevent academic failure~\cite{hart1995meaningful,paez2007dual}. Yet, only about 40\% of eligible 4 year olds attend preschool (NIEER, 2013).
 
-One of the most important factors for language skill development is sufficient exposure to a rich variety of spoken language and vocabulary€“~\cite{asaridou2016pace}. The social context of exposure is also critical to concept development and the learning experience, i.e., simply hearing language is not enough.€ Children need to actively participate and be emotionally and physically engaged in order to maximize their learning gains~\cite{wells2000dialogic}. 
+One of the most important factors for language skill development is sufficient exposure to a rich variety of spoken language and vocabulary\cite{asaridou2016pace}. The social context of exposure is also critical to concept development and the learning experience, i.e., simply hearing language is not enough. Children need to actively participate and be emotionally and physically engaged in order to maximize their learning gains~\cite{wells2000dialogic}. 
 
 %needed to be a successful reader~\cite{wolf_2016,dehaene_2010}
 When a child enters Kindergarten, they are a unique distribution of the various cognitive, visual, social and linguistic skills. However, in at-risk communities, it is almost impossible for a teacher to offer a curriculum that addresses the diverse cognitive and pre-literacy education needs of each child. Young children would clearly benefit from personalized instruction that can measure and adapt to many intersecting domains of skills and abilities during the process of learning to read. 
@@ -29,9 +29,9 @@ Through our research, we propose to address multiple high-impact challenges:
 \subsection{Development of Automatic Speech Recognition and Spoken Language Understanding systems for young children's speech}
 \label{section_ASR}
 \subsubsection{Automatic speech recognition for young children}
-Compared to adults, children?s speech is characterized by (i) more omissions, substitutions and mispronunciations (ii) shorter words that make discrimination more difficult (iii) more creative word use (iv) diversity in anatomy and physiology and developing motor skills (v) larger variation in spectral and temporal parameters and (vi) larger number of disfluencies ~\cite{kennedy2017child, fainberg2016improving}. Though are tools achieving single-digit word error rate (WER) ~\cite{saon2015ibm, price2009assessment} for adult speech, there is still no robust technology for child speech with accuracy rate above 50\%.
+Compared to adults, children's speech is characterized by (i) more omissions, substitutions and mispronunciations (ii) shorter words that make discrimination more difficult (iii) more creative word use (iv) diversity in anatomy and physiology and developing motor skills (v) larger variation in spectral and temporal parameters and (vi) larger number of disfluencies ~\cite{kennedy2017child, fainberg2016improving}. Though are tools achieving single-digit word error rate (WER) ~\cite{saon2015ibm, price2009assessment} for adult speech, there is still no robust technology for child speech with accuracy rate above 50\%.
 
-Figure 1 shows our analysis of the performance of several cloud-based ASR APIs on child speech. (age?)
+Figure 1 shows our analysis of the performance of several cloud-based ASR APIs on child speech. We tested with a corpus of 5.5 hours of storytelling speech samples from 75 preschool and kindergarten children(ages 4-7 (5.13 $\pm$ 0.64)), collected throughout our previous projects.
 
 \begin{wrapfigure}{R}{0.35\textwidth}
   \centering
@@ -87,9 +87,8 @@ Relative to the current research landscape at the intersection of social robots,
 %These activities can easily be adapted to support either in-school scenarios where a robot and child play these activities together or a triadic interaction in homes where a parent-child-robot do these activities together. In prior work with the TinkRBook, for instance, we explicitly did in-home studies to study the design impact of TinkRability on fostering parent participation during story co-reading. We were able to show that this new design principle encouraged  parents to perform a range of positive emergent literacy behaviors (print referencing, dialog, and dialogic questioning) by 3 to 10 times more than with reading physical books~\cite{Chang_Breazeal_Faridi_Roberts_Davenport_Lieberman_Montfort_2012}. Additionally, children were observed to take a more active role in exploring the concept of text. With social robot triadic interactions, we observe that parents participate naturally as part of the group and similarly help to guide, highlight, motivate, and prompt their child~\cite{Freed_2012}. These design principles will be incorporated and further explored in the proposed work.
 
 %\subsection{Evaluation studies with deployed social robots in schools and homes demonstrating sustained engagement and positive learning outcomes.}
-\\
-\newline
-\smallspace
+
+
 
 \section{One Year Horizon of project}
 
@@ -105,6 +104,8 @@ Building on numerous past system deployments ~\cite{park2017hri-bc, gordon2016af
 
 In the first year of the project we are focusing our efforts on designing and evaluating multi-modal assessment algorithms for these games, especially in applying active learning and transfer learning techniques so that models learned from one interaction can be used as a foundation for models in different applications or skills. During gameplay, we will also be recording audio to build up a corpus of high-quality children's speech samples for development of robust children's speech technologies.
 
+In addition to this we will also concentrate on developing models for children's ASR with focus in multiple directions: (1) using adult speech and adapting the models to kids speech (2) utilizing existing kids' speech databases and the data we collect for the models (3) exploring various model adaptation and also decoding algorithm adaptation for better results (4) adding knowledge about the speech content to the grammar and dictionary to improve accuracy (5) investigating the use of non-traditional features.
+   
 \section{Strength of Team to Achieve Proposed Milestones}
 
 The UCLA Speech Processing and Auditory Perception Lab has an extensive history developing noise-robust speech recognition and analysis tools for children and adults.  
