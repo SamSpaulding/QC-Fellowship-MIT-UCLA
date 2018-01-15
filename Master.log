@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.5.23)  15 JAN 2018 15:07
+This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.5.23)  15 JAN 2018 16:01
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Master.tex
@@ -35,7 +35,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.099 seconds
+luaotfload | main : initialization completed in 0.100 seconds
 Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -958,24 +958,7 @@ File: fig/game_screens.png Graphic file (type png)
 <use fig/game_screens.png>
 Package luatex.def Info: fig/game_screens.png used on input line 97.
 (luatex.def)             Requested size: 430.00958pt x 86.35352pt.
-
-<fig/tega_jibo_combined.png, id=101, 1153.30875pt x 700.6175pt>
-File: fig/tega_jibo_combined.png Graphic file (type png)
-
-<use fig/tega_jibo_combined.png>
-Package luatex.def Info: fig/tega_jibo_combined.png used on input line 114.
-(luatex.def)             Requested size: 177.06458pt x 107.5576pt.
-
-Underfull \hbox (badness 1210) in paragraph at lines 115--115
-\TU/Arial(0)/m/n/9 signed and built at MIT; Jibo (right) is a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
-
- []
-
-[3<./fig/game_screens.png>]) [4<./fig/tega_jibo_combined.png>]
+) [3<./fig/game_screens.png>]
 \openout2 = Refs.aux
  (./Refs.tex
 (./Master.bbl)) [1
@@ -988,22 +971,22 @@ LaTeX Warning: There were multiply-defined labels.
 )
 
 Here is how much of LuaTeX's memory you used:
- 15559 strings out of 494481
+ 15549 strings out of 494481
  100000,460012 words of node,token memory allocated
  540 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 1 kern, 7 attribute, 67 glue_spec, 7 attrib
 ute_list, 2 write nodes
    avail lists: 1:2,2:627,3:210,4:64,5:100,6:4812,7:982,8:42,9:104,10:34,11:472
- 19129 multiletter control sequences out of 65536+600000
+ 19125 multiletter control sequences out of 65536+600000
  62 fonts using 10753047 bytes
  40i,6n,79p,1500b,383s stack positions out of 5000i,500n,10000p,200000b,100000s
 </Library/Fonts/Arial Italic.ttf></Library/Fonts/Arial.ttf></Library/Fonts/Arial
  Bold.ttf></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 y10.pfb>
-Output written on Master.pdf (5 pages, 1388944 bytes).
+Output written on Master.pdf (4 pages, 572054 bytes).
 
-PDF statistics: 137 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
+PDF statistics: 132 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
