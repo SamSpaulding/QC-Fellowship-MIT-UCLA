@@ -1,21 +1,21 @@
 
 %%%%%%%%% PROPOSAL
-\noindent{\large\bf Social Robot Learning Companions for Personalized Children's Education}
+\noindent{\large\bf Social robot learning companions for personalized children's education}
 \vspace{-4mm}   
-\section{Introduction \& Problem Definition}
+\section{Introduction \& problem definition}
  \vspace{-3mm}   
-Learning to read is one of the most important educational tasks of our schools, but in 2015, only 36\% of 4th, 34\% of 8th grade students tested on the National Assessment of Educational Progress (NAEP) reached proficiency in reading~\cite{nces2015}. Literacy skills like phonologic, alphabetic, and vocabulary knowledge, delivered by quality preschool programs support the development of literacy skills in later grades and can help prevent academic failure~\cite{hart1995meaningful,paez2007dual}. Yet, only about 40\% of eligible 4 year olds attend preschool (NIEER, 2013).
+Learning to read is one of the most important educational tasks of our schools, but in 2015, only 36\% of 4th, 34\% of 8th grade students tested on the National Assessment of Educational Progress (NAEP) reached proficiency in reading~\cite{nces2015}. Literacy skills like phonologic, alphabetic understanding, and vocabulary knowledge, delivered by quality preschool programs support the development of literacy skills in later grades and can help prevent academic failure~\cite{hart1995meaningful,paez2007dual}. Yet, only about 40\% of eligible 4 year olds attend preschool (NIEER, 2013).
 I 
 One of the most important factors for language skill development is sufficient exposure to a rich variety of spoken language and vocabulary \cite{asaridou2016pace}. The social context of exposure is also critical to concept development and the learning experience. Simply hearing language is not enough; children need to actively participate and be emotionally and physically engaged to maximize their learning gains~\cite{wells2000dialogic}. 
 
 %needed to be a successful reader~\cite{wolf_2016,dehaene_2010}
-When a child enters Kindergarten, they possess a unique distribution of cognitive, visual, social and linguistic skills. However, in at-risk communities it is almost impossible for a teacher to offer a curriculum that addresses the diverse cognitive and pre-literacy education needs of each child. Young children would clearly benefit from personalized instruction that can measure and adapt to many intersecting domains of skills and abilities during the process of learning to read. 
+When a child enters Kindergarten, they possess a unique distribution of cognitive, visual, social and linguistic skills. However, in at-risk communities it is almost impossible for a teacher to offer a curriculum that addresses the diverse cognitive and pre-literacy educational needs of each child. Young children would clearly benefit from personalized instruction that can measure and adapt to many intersecting domains of skills and abilities during the process of learning to read. 
 
 We propose to address this challenge by developing social robot companions that can continuously assess and effectively personalize to meet individual children's diverse needs. Interactions between a child and a robot resemble the speech acts between children and adults or peers, and offer a unique opportunity to personalize social interactions to promote early literacy skills.
 
 %Other barriers are rapidly falling: robust, affordable, and capable social robot platforms are beginning to enter the consumer market. Cloud-based infrastructure for data and computing are mature and accessible to all. Ordinary people interact daily with speech-based interfaces. Companies have recognized the importance of speech science, AI, and robotics as technologies of the future and are investing in their advancement accordingly. The time is ripe to develop the speech tools, algorithms, and models necessary to unlock the full potential of networked social robot systems to engage children and help promote early literacy skills.
 \vspace{-4mm}   
-\section{Innovation Proposal and Relation to State-of-the-Art}
+\section{Innovation proposal and relation to state-of-the-art}
 \vspace{-3mm}   
 Social robot learning companions have great potential to augment the efforts of parents and teachers to promote learning, academic knowledge, and the wellbeing of children. Existing work with older students has shown that Intelligent Tutoring Systems (ITS) that automatically assess and adapt to student skill levels can positively impact student-learning gains~\cite{desmarais2012review}. 
 
@@ -25,13 +25,13 @@ Social robots that use speech interfaces are a compelling vehicle for bringing t
 
 Through our research, we propose to address multiple high-impact challenges:
 
-\subsection{Development of Automatic Speech Recognition and Spoken Language Understanding systems for young children's speech}
+\subsection{Development of automatic speech recognition and spoken language understanding systems for young children's speech}
 \label{section_ASR}
 %\subsubsection{Automatic speech recognition for young children}
 Compared to adults, children's speech is characterized by more omissions, substitutions, and mispronunciations, diversity in anatomy and developing motor skills, larger variation in spectral and temporal parameters, and larger number of disfluencies ~\cite{kennedy2017child, fainberg2016improving}. Though some tools achieve single-digit word error rate (WER) ~\cite{saon2015ibm, price2009assessment} for adult speech, there is still no robust technology for child speech with accuracy rate above 50\%; this is especially true for children younger than 7 years old.
 % shorter words that make discrimination more difficult, more creative word use,
 
-Figure 1 shows our analysis of the performance of several cloud-based ASR APIs on child speech, tested with a corpus of 5.5 hours of storytelling speech samples from 75 preschool and kindergarten children(ages 4-7 (5.13 $\pm$ 0.64)), collected throughout our previous projects.
+This was made clear by our analysis of the performance of several cloud-based ASR APIs on child speech, shown in Figure \ref{fig:jibo1}. We tested these APIs with a corpus of 5.5 hours of storytelling speech samples from 75 preschool and kindergarten children (ages 4-7 (5.13 $\pm$ 0.64)), collected throughout our previous projects. Results showed that no ASR API tested had less than 52\% word error rate on young children.
 
 \begin{wrapfigure}{R}{0.35\textwidth}
 \vspace{-5mm} 
@@ -43,7 +43,7 @@ Figure 1 shows our analysis of the performance of several cloud-based ASR APIs o
 \end{wrapfigure}
 
 
-In preparation for this project, we have started collecting a large database of children's speech while interacting with robots in both Boston and Los Angeles Schools. We will use this data to train Deep Neural Network (DNN) based systems for Automatic Speech Recognition (ASR) for children's speech that are robust to age, gender, classroom noise, and disfluencies. Due to the challenges of unconstrained children's speech recognition ~\cite{fainberg2016improving}, we will restrict the domain to ASR for assessment of literacy skills, focusing on the tasks of co-reading and answering dialogic questions.
+In preparation for this project, we have started collecting a large database of children's speech while interacting with robots in both Boston and Los Angeles Schools. We will use this data to train deep neural network (DNN) based systems for automatic speech recognition (ASR) for children's speech that are robust to age, gender, classroom noise, and disfluencies. Due to the challenges of unconstrained children's speech recognition ~\cite{fainberg2016improving}, we will restrict the domain to ASR for assessment of literacy skills, focusing on the tasks of co-reading and answering dialogic questions.
 
  %The goal is to develop innovative ASR algorithms for young children.
 %We focus on co-reading out loud, story retell as well as dialogic scenario as: (1) The main mode of communication is speaking for our targeted age group. (2) A corpus of annotated speech from children?s reading, retelling or responding to questions from a known library of books constitutes crucially important research data to advance testing or teaching approaches, as well as the development of the theories of cognitive strategies. (3) Oral language can not only determine accuracy, but also provide cues to help diagnose understanding of vocabulary, word usage, confidence and focus.
@@ -88,7 +88,7 @@ The ability to deliver effective, scalable, affordable, early literacy and langu
 \vspace{-4mm}   
 
 %Relative to the current research landscape at the intersection of social robots, educational modeling, and spoken language understanding, our proposed work, while built on a firm track record of prior research, brings us into new territory with the potential for tremendous impact.
-\section{One Year Horizon of project}
+\section{One year horizon of the project}
 \vspace{-3mm}   
 Building on numerous past system deployments ~\cite{park2017hri-bc, gordon2016affective, westlund2017flat} we have developed and evaluated three interactive games and a shared library of grade-appropriate children's content to support multiple-month deployments. First, an interactive storybook, in which the child and the robot alternate telling versions of a given picturebook. Second, a competitive word-pronunciation game, in which the child and robot compete to win points by correctly pronouncing words, and third, a collaborative ``I Spy" game, in which the child and the robot work together to identify and pronounce words in a scene that fit a category.
 
