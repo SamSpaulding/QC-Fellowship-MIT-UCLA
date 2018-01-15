@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6500 64-bit) (preloaded format=xelatex 2018.1.12)  13 JAN 2018 00:04
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6500 64-bit) (preloaded format=xelatex 2018.1.12)  15 JAN 2018 05:00
 entering extended mode
 **./Master.tex
 (Master.tex
@@ -868,353 +868,28 @@ Package caption Info: End \AtBeginDocument code.
 
 
 (Desc.tex
-Overfull \hbox (10.52525pt too wide) in paragraph at lines 8--9
-\TU/Arial(0)/m/n/10.95 programs support the development of literacy skills
- []
-
-
-Overfull \hbox (16.24802pt too wide) in paragraph at lines 10--11
-\TU/Arial(0)/m/n/10.95 a rich variety of spoken language and vocabulary[[]].
- []
-
-
-Overfull \hbox (4.48996pt too wide) in paragraph at lines 10--11
-\TU/Arial(0)/m/n/10.95 ence, i.e., simply hearing language is not enough.
- []
-
-
-Overfull \hbox (1.02066pt too wide) in paragraph at lines 10--11
-\TU/Arial(0)/m/n/10.95 Children need to actively participate and be emo-
- []
-
-
-Overfull \hbox (8.52917pt too wide) in paragraph at lines 13--14
-\TU/Arial(0)/m/n/10.95 diverse cognitive and pre-literacy education needs
- []
-
-
-Overfull \hbox (7.12302pt too wide) in paragraph at lines 21--22
-\TU/Arial(0)/m/n/10.95 tential to augment the efforts of parents and teach-
- []
-
-
-Overfull \hbox (3.46407pt too wide) in paragraph at lines 25--26
-\TU/Arial(0)/m/n/10.95 further development and widespread deployment
- []
-
-
-Overfull \hbox (3.40605pt too wide) in paragraph at lines 27--28
-[]\TU/Arial(0)/m/n/10.95 Through our research, we propose to address
- []
-
-
-Overfull \hbox (14.20831pt too wide) in paragraph at lines 29--29
-|[]\TU/Arial(0)/bx/n/11 Development of Automatic Speech Recog-
- []
-
-
-Overfull \hbox (10.513pt too wide) in paragraph at lines 29--29
-\TU/Arial(0)/bx/n/11 nition and Spoken Language Understand-
- []
-
-
-Overfull \hbox (4.24673pt too wide) in paragraph at lines 29--29
-\TU/Arial(0)/bx/n/11 ing systems for young children’s speech| 
- []
-
-
-Overfull \hbox (23.86905pt too wide) in paragraph at lines 31--31
- |[]\TU/Arial(0)/bx/it/10.95 Automatic speech recognition for young
- []
-
-
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 32--33
-\TU/Arial(0)/m/n/10.95 acterized by (i) more omissions, substitutions and
- []
-
-
-Overfull \hbox (9.67513pt too wide) in paragraph at lines 32--33
-\TU/Arial(0)/m/n/10.95 discrimination more difficult (iii) more creative word
- []
-
-
-Overfull \hbox (6.45288pt too wide) in paragraph at lines 32--33
-\TU/Arial(0)/m/n/10.95 developing motor skills (v) larger variation in spec-
- []
-
-
-Overfull \hbox (2.19695pt too wide) in paragraph at lines 32--33
-\TU/Arial(0)/m/n/10.95 tral and temporal parameters and (vi) larger num-
- []
-
-
-Overfull \hbox (7.98088pt too wide) in paragraph at lines 32--33
-\TU/Arial(0)/m/n/10.95 ber of disfluencies  [[], []]. Though are tools achiev-
- []
-
 LaTeX Font Info:    Try loading font information for U+msa on input line 34.
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 34.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (1.61311pt too wide) in paragraph at lines 34--35
-\TU/Arial(0)/m/n/10.95 mance of several cloud-based ASR APIs on child
- []
-
-
-Overfull \hbox (8.1187pt too wide) in paragraph at lines 34--35
-\TU/Arial(0)/m/n/10.95 and kindergarten children(ages 4-7 (5.13 $\OMS/cmsy/m/n/
-10.95 ^^F$ \TU/Arial(0)/m/n/10.95 0.64)),
- []
-
-File: fig/asr.pdf Graphic file (type pdf)
-<use fig/asr.pdf>
-
-Overfull \hbox (8.98956pt too wide) in paragraph at lines 43--44
-\TU/Arial(0)/m/n/10.95 les Schools. Innovative Automatic Speech Recog-
- []
-
-
-Overfull \hbox (1.59175pt too wide) in paragraph at lines 43--44
-\TU/Arial(0)/m/n/10.95 nition (ASR) systems based on Deep Neural Net-
- []
-
-
-Overfull \hbox (1.61845pt too wide) in paragraph at lines 43--44
-\TU/Arial(0)/m/n/10.95 The goal is to develop innovative ASR algorithms
- []
-
-[1
-
+) [1
 
 
 ]
-Overfull \hbox (3.73738pt too wide) in paragraph at lines 45--46
-[][]\TU/Arial(0)/m/n/10.95 Owing to
+File: fig/asr.pdf Graphic file (type pdf)
+<use fig/asr.pdf>
+
+Underfull \hbox (badness 1845) in paragraph at lines 45--46
+[]\TU/Arial(0)/m/n/10.95 Owing to the challenges faced in performing uncon-
  []
 
-
-Overfull \hbox (14.14447pt too wide) in paragraph at lines 45--46
-\TU/Arial(0)/m/n/10.95 the challenges
- []
-
-
-Overfull \hbox (3.37805pt too wide) in paragraph at lines 45--46
-\TU/Arial(0)/m/n/10.95 faced in per-
- []
-
-
-Overfull \hbox (1.15024pt too wide) in paragraph at lines 45--46
-\TU/Arial(0)/m/n/10.95 constrained
- []
-
-
-Overfull \hbox (27.93355pt too wide) in paragraph at lines 45--46
-\TU/Arial(0)/m/n/10.95 children’s speech
- []
-
-
-Overfull \hbox (17.38101pt too wide) in paragraph at lines 45--46
-\TU/Arial(0)/m/n/10.95 recognition  [[]],
- []
-
-
-Overfull \hbox (6.42032pt too wide) in paragraph at lines 45--46
-\TU/Arial(0)/m/n/10.95 strain the do-
- []
-
-
-Overfull \hbox (2.55821pt too wide) in paragraph at lines 45--46
-\TU/Arial(0)/m/n/10.95 sessment of
- []
-
-
-Overfull \hbox (2.96811pt too wide) in paragraph at lines 45--46
-\TU/Arial(0)/m/n/10.95 comprehen-
- []
-
-
-Overfull \hbox (1.54947pt too wide) in paragraph at lines 45--46
-\TU/Arial(0)/m/n/10.95 sion of early
- []
-
-
-Overfull \hbox (10.48735pt too wide) in paragraph at lines 45--46
-\TU/Arial(0)/m/n/10.95 language ma-
- []
-
-
-Overfull \hbox (69.10324pt too wide) in paragraph at lines 47--47
- |[]\TU/Arial(0)/bx/it/10.95 Understanding
- []
-
-
-Overfull \hbox (9.35754pt too wide) in paragraph at lines 47--48
-\TU/Arial(0)/m/n/10.95 ability and developmental changes, speaker adap-
- []
-
-
-Overfull \hbox (2.01869pt too wide) in paragraph at lines 47--48
-\TU/Arial(0)/m/n/10.95 mation which may introduce confusability into the
- []
-
-
-Overfull \hbox (5.77765pt too wide) in paragraph at lines 49--50
-\TU/Arial(0)/m/n/10.95 spontaneous speech of children. Hence we, need
- []
-
-
-Overfull \hbox (4.83464pt too wide) in paragraph at lines 49--50
-\TU/Arial(0)/m/n/10.95 the children come from a variety of linguistic back-
- []
-
-
-Overfull \hbox (17.09439pt too wide) in paragraph at lines 59--59
-\TU/Arial(0)/bx/n/11 children’s spoken language and early read-
- []
-
-
-Overfull \hbox (1.75485pt too wide) in paragraph at lines 64--65
-[]\TU/Arial(0)/bx/n/10.95 Span to Multi-word reading tasks. \TU/Arial(0)/m/n/10
-.95 Our pre-
- []
-
-
-Overfull \hbox (4.44785pt too wide) in paragraph at lines 64--65
-\TU/Arial(0)/m/n/10.95 more accurately assessed student’s performance
- []
-
-
-Overfull \hbox (6.50635pt too wide) in paragraph at lines 64--65
-\TU/Arial(0)/m/n/10.95 propose to extend these results to more advanced
- []
-
-
-Overfull \hbox (7.36293pt too wide) in paragraph at lines 66--68
-[]\TU/Arial(0)/bx/n/10.95 Expand beyond tactile based inputs to spo-
- []
-
-
-Overfull \hbox (2.22902pt too wide) in paragraph at lines 66--68
-\TU/Arial(0)/m/n/10.95 identifying (by tapping on a touchscreen) the writ-
- []
-
-
-Overfull \hbox (6.30139pt too wide) in paragraph at lines 66--68
-\TU/Arial(0)/m/n/10.95 technologies will enable us to incorporate speech-
- []
-
-
-Overfull \hbox (3.26413pt too wide) in paragraph at lines 66--68
-\TU/Arial(0)/m/n/10.95 based data, such as children’s spoken responses
- []
-
-
-Overfull \hbox (3.2837pt too wide) in paragraph at lines 66--68
-\TU/Arial(0)/m/n/10.95 and pronunciation, enabling new interactions and
- []
-
-
-Overfull \hbox (18.91264pt too wide) in paragraph at lines 69--70
-\TU/Arial(0)/m/n/10.95 ate model improvement. Generally speaking, knowl-
- []
-
-
-Overfull \hbox (3.64229pt too wide) in paragraph at lines 69--70
-\TU/Arial(0)/m/n/10.95 edge assessment models improve with additional
- []
-
-
-Overfull \hbox (2.5272pt too wide) in paragraph at lines 69--70
-\TU/Arial(0)/m/n/10.95 data. But collecting additional data often requires
- []
-
-
-Overfull \hbox (3.86862pt too wide) in paragraph at lines 69--70
-\TU/Arial(0)/m/n/10.95 asking additional questions or prompting the child
- []
-
-
-Overfull \hbox (1.46503pt too wide) in paragraph at lines 69--70
-\TU/Arial(0)/m/n/10.95 from any single session. By employing an active-
- []
-
-
-Overfull \hbox (3.03276pt too wide) in paragraph at lines 69--70
-\TU/Arial(0)/m/n/10.95 provide the maximum expected inferential power,
- []
-
-[2]
-Overfull \hbox (12.16275pt too wide) in paragraph at lines 71--72
-\TU/Arial(0)/m/n/10.95 velop personalized assessment algorithms, trained
- []
-
-
-Overfull \hbox (4.64526pt too wide) in paragraph at lines 75--75
-\TU/Arial(0)/bx/n/11 autonomous, collaborative, peer-like so-
- []
-
-
-Overfull \hbox (8.75128pt too wide) in paragraph at lines 75--75
-\TU/Arial(0)/bx/n/11 with effective educational activities lever-
- []
-
-
-Overfull \hbox (3.23024pt too wide) in paragraph at lines 77--78
-\TU/Arial(0)/m/n/10.95 robot, which significantly hindered real-time robot
- []
-
-
-Overfull \hbox (4.91127pt too wide) in paragraph at lines 77--78
-\TU/Arial(0)/m/n/10.95 adapt to children’s unique educational needs over
- []
-
-
-Overfull \hbox (3.24094pt too wide) in paragraph at lines 81--82
-\TU/Arial(0)/m/n/10.95 guistic) skills, and personalized content sequenc-
- []
-
-
-Overfull \hbox (4.66283pt too wide) in paragraph at lines 83--84
-\TU/Arial(0)/m/n/10.95 capture real-time audio, video, touch interactions,
- []
-
-
-Overfull \hbox (1.23059pt too wide) in paragraph at lines 83--84
-\TU/Arial(0)/m/n/10.95 putational models, assess children’s reading and
- []
-
-
-Overfull \hbox (8.11928pt too wide) in paragraph at lines 95--96
-\TU/Arial(0)/m/n/10.95 three interactive game environments and a shared
- []
-
-
-Overfull \hbox (1.69455pt too wide) in paragraph at lines 95--96
-\TU/Arial(0)/m/n/10.95 book. Second, a competitive word-pronunciation
- []
-
+[2] [3]
 File: fig/game_screens.png Graphic file (type bmp)
 <fig/game_screens.png>
-
-Overfull \hbox (239.87752pt too wide) in paragraph at lines 99--100
- [][] 
- []
-
-[3]
-Overfull \hbox (3.71625pt too wide) in paragraph at lines 109--109
-|[]\TU/Arial(0)/bx/n/12 Strength of Team to Achieve Proposed
- []
-
-
-Overfull \hbox (0.79866pt too wide) in paragraph at lines 111--112
-\TU/Arial(0)/m/n/10.95 The UCLA Speech Processing and Auditory Per-
- []
-
 File: fig/tega_jibo_combined.png Graphic file (type bmp)
 <fig/tega_jibo_combined.png>
 
@@ -1223,120 +898,14 @@ Underfull \hbox (badness 5711) in paragraph at lines 116--116
  []
 
 
-Overfull \hbox (1.2886pt too wide) in paragraph at lines 120--121
-[][]\TU/Arial(0)/m/n/10.95 The MIT
- []
-
-
-Overfull \hbox (10.0828pt too wide) in paragraph at lines 120--121
-\TU/Arial(0)/m/n/10.95 group has de-
- []
-
-
-Overfull \hbox (3.19447pt too wide) in paragraph at lines 120--121
-\TU/Arial(0)/m/n/10.95 veloped and
- []
-
-
-Overfull \hbox (10.4713pt too wide) in paragraph at lines 120--121
-\TU/Arial(0)/m/n/10.95 procured sev-
- []
-
-
-Overfull \hbox (13.11435pt too wide) in paragraph at lines 120--121
-\TU/Arial(0)/m/n/10.95 eral robot plat-
- []
-
-
-Underfull \hbox (badness 1484) in paragraph at lines 120--121
-\TU/Arial(0)/m/n/10.95 forms (see
- []
-
-
-Overfull \hbox (5.2066pt too wide) in paragraph at lines 120--121
-\TU/Arial(0)/m/n/10.95 pable of sus-
- []
-
-
-Underfull \hbox (badness 2293) in paragraph at lines 120--121
-\TU/Arial(0)/m/n/10.95 taining en-
- []
-
-
-Overfull \hbox (13.5403pt too wide) in paragraph at lines 120--121
-\TU/Arial(0)/m/n/10.95 gagement and
- []
-
-
-Overfull \hbox (6.4096pt too wide) in paragraph at lines 120--121
-\TU/Arial(0)/m/n/10.95 interest in re-
- []
-
-
-Overfull \hbox (5.00699pt too wide) in paragraph at lines 120--121
-\TU/Arial(0)/m/n/10.95 peated inter-
- []
-
-
-Overfull \hbox (9.72336pt too wide) in paragraph at lines 120--121
-\TU/Arial(0)/m/n/10.95 actions. Over
- []
-
-
-Overfull \hbox (5.20126pt too wide) in paragraph at lines 120--121
-\TU/Arial(0)/m/n/10.95 the past sev-
- []
-
-
-Underfull \hbox (badness 1400) in paragraph at lines 120--121
-\TU/Arial(0)/m/n/10.95 eral years, they have built extensive cloud-
- []
-
-
-Underfull \hbox (badness 1147) in paragraph at lines 120--121
-\TU/Arial(0)/m/n/10.95 of these systems in schools, hospitals, and
- []
-
-
-Underfull \hbox (badness 1622) in paragraph at lines 120--121
-\TU/Arial(0)/m/n/10.95 week parallel deployment of adaptive story-
- []
-
-
-Overfull \hbox (1.82977pt too wide) in paragraph at lines 122--123
-\TU/Arial(0)/m/n/10.95 established track record of foundational research
- []
-
-
-Overfull \hbox (2.85632pt too wide) in paragraph at lines 122--123
-\TU/Arial(0)/m/n/10.95 bust technologies for analyzing children’s speech
- []
-
-
-Overfull \hbox (0.63213pt too wide) in paragraph at lines 122--123
-\TU/Arial(0)/m/n/10.95 and combining these technologies with adaptive,
- []
-
-
-Overfull \hbox (6.07289pt too wide) in paragraph at lines 122--123
-\TU/Arial(0)/m/n/10.95 personalized assessment algorithms, we propose
- []
-
-
-Overfull \hbox (2.46603pt too wide) in paragraph at lines 122--123
-\TU/Arial(0)/m/n/10.95 language education experiences for young learn-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 122--123
 
  []
 
-) [4]
+[4]) [5]
 \openout2 = `Refs.aux'.
 
  (Refs.tex (Master.bbl)) [1
-
 
 
 ] (Master.aux (Desc.aux) (Refs.aux))
@@ -1351,6 +920,6 @@ Here is how much of TeX's memory you used:
  19373 multiletter control sequences out of 15000+200000
  537270 words of font info for 69 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 40i,5n,79p,10410b,360s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,6n,79p,10410b,364s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Master.pdf (5 pages).
+Output written on Master.pdf (6 pages).
